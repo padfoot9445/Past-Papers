@@ -38,7 +38,7 @@ def parse_comment(line: str, current_current: int) -> tuple[int, str]:
         current_current += 1
         if stack == 0:
             break
-    return current_current, line[start + 1:current_current]
+    return current_current, line[start + 1:current_current - 1]
 
 def parse_marking(mark_script: str, current: int = 0) -> tuple[int, list[str]]:
     if current >= len(mark_script):
