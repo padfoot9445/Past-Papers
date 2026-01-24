@@ -1,0 +1,156 @@
+1.
+    a. eclipse skewed away from star.
+    b.
+        i. moon --> planet
+        ii. b
+    c.
+        ((8.7 * 10^10) * 2 * pi)/(2.5 * 10^8)
+        = 2102.45...
+        ~= 2100 m/s
+    d.
+        The position of the liquid water region would likely move away from the sun. This is because a blur star of the same size would be hotter than the sun, and hence the current liquid water region will have planets with surface temperature above 100 degrees celcius. However, temperature is lower further away from the sun, so there will be a region further away from the sun where all planets have a surface temperature between 0 and 100 degrees celcius.
+2.
+    a.
+        i.
+            Kinetic Energy = 1/2 * mass * speed^2
+        ii.
+            1/2 * 85 * 4.5^2 = 860.625 ~= 861 J
+        iii.
+            861J
+        iv.
+            gravitational potential energy = mass * gravitational field strength * height
+        v.
+            height = gravitational potential energy / (mass * gravitational field strength)
+            = 85 * 9.8 * 860.625
+            = 1.033m
+            ~= 1.03m
+    b.
+        i.
+            y = mx + c for m < 0; c > 0
+        ii.
+            b
+        iii!
+            Because the gravitational attraction between any two objects is proportional to their combined masses (or, in the case where one object is so much less massive than the other that its mass is negligable, roughly proportional to the mass of the more massive object). The Moon is smaller than the Earth and has less Mass, so the gravitational field strength on it is smaller than the gravitational field strength of Earth.
+3.
+    a.
+        The power supply is covered in plastic because plastic is an insulator. By covering the power supply in plastic, accidental electric shock is prevented, because insulators are not conductors.
+    b.
+        i.
+            Power = Current * Voltage
+        ii.
+            Current = Power / Voltage
+            = 350 / 230
+            = 1.52
+    c!
+        A circuit breaker is easily reset when it is tripped, whereas a fuse needs to be replaced after it is triggered. Furthermore, some circuit breakers are able to protect against short power surges which may not last long enough to melt a fuse, or which may cause damage before the fuse is melted.
+4?
+    a?
+        Bequerel
+    b?
+        Background radiation means the radiation that is present from natural sources, such as the decay of naturally present radioactive substances on earth.
+    c.
+        i.
+            Half-life is the amount of time it takes for some substance to lose half of its mass by means of radioactive decay
+        ii.
+            19 minutes
+    d.
+        Let us take two points on the graph: (5 minutes, 1000 Bequerel); (30 minutes, 400 Bequerel). 5 * 1000 = 5000, but 30 * 400 = 12000. 5000 != 12000, so activity * time taken is not constant.
+5.
+    a.
+        straight lines with arrows at midpoint, parallel, pointing from north -> south
+    b.
+        arrow [down] (parallel to the legs of the permanent magnet)
+    c?
+        The loop starts to turn but stops when the loop is vertical because when the loop is flat, Flemming's Left Hand Rule suggests that the left hand side of the loop experiences a downwards force, whereas the right hand side of the loop experiences an upwards force. This is because current is flowing in opposite directions on each side of the loop. This causes the loop to turn because the forces experienced are imbalanced and perpendicular to the plane of the coil.
+
+        However, when the loop is vertical, although the same upwards and downwards forces are experienced, these forces are in-line with the plane of the coil. Thus, the coil only experiences a stretching force vertically, but does not experience any moment.
+6.
+    a.
+        Place the rectangular transparent block in a central spot on the paper, and trace around it using the pencil to denote its position and orientation. This marking should be done in a fashion which allows the drawing of lines normal to the surface of the block later. Then, using the ray box, shine a ray of light into the rectangular transparent block. Mark the point at which the ray of light enters the rectangular transparent block, the point at which the ray of light leaves the rectangular transparent block, and the point at which the ray of light originated (i.e. the position of the ray box). Repeat this process several times, positioning the ray box in a different position each time, making sure to keep track of which markings belong to which repetition.
+
+        After at least ten repetitions, for each group of markings, using the ruler, draw a line between where the light entered the rectangular box and the position of the ray box (hereinafter referred to as the incident line), and a line between where the light entered the rectangular box and where the light exited the box (hereinafter referred to as the refracted line). Also draw a normal (using the protractor if nececssary) at the point where the light entered the box. Then, measure the angle between the incident line and the normal (meaning the acute angle completely outside where the rectangular box was) (hereinafter referred to as i_{x} where x refers to the repetition-number this data-set is for); and measure the angle between the normal and the refracted line (meaning the acute angle completely inside where the rectangular box was) (hereinafter referred to as r_{x}). Define n_{x} = sin(i_{x})/sin(r_{x}).
+
+        Compute n_{x} for each group of points using the above method. Remove any outliers via the use of the test k > 1.5 * IQR + median or k < median - 1.5 * IQR means k is an outlier, and then calculate the mean value of n. THis is the refractive index of the material.
+    b.
+        i!
+            Refractive index * sin(C) = 1
+        ii.
+            sin(C) = 1/Refractive index 
+            C = arcsin(1/1.2)
+            C = 28.22 degrees ~= 28.2 degrees
+
+        iii?
+            Total internal reflection is when the angle of incidence exceeds the critical angle, and the ray of light does not pass into the other medium but rather is reflected within the medium.
+    c.
+        i.
+            Measure the acute angle between the line inside the prism and the normal line
+        ii.
+            deflects towards B
+7.
+    a.
+        i?
+            force of gravity
+        ii.
+            two vertical arrows of equivalent length, with one arrow pointing up from the top-side of the sub and one down from the bottom-side, labelled upthrust and force of gravity respectively
+    b.
+        i.
+            pressure = density * gravitational field strength * height
+        ii.
+            pressure = 1030 * 38 * 9.8 = 383572 Pascals = 383.572 kPa ~= 384 kPa
+    c.
+        i.
+            Pressure is force / area. Air molecules, having kinetic energy (since the submarine is on earth and earth is not at absolute zero), collide with the walls of the storage tank (area), exerting a force. Hence, pressure is felt.
+        ii.
+            410 * (18 + 273)/(2.5 + 273) = 433.06 ~= 433 kPa
+8.
+    a.
+        transverse: perpendicular to the axis of travel of the wave;
+        longitudinal: parallel to the axis of travel of the wave.
+    b?
+        The Doppler effect causes the frequency of sound detected by whale B to increase because whale A swims towards whale B. This is because as whale A swims towards whale B, the position from which it emits a sound is moving closer towards whale B. Consequently, the wavelength of the sound decreases. Since frequency = speed / wavelength, since wavelength decreases and the speed of the wave remains the same, frequency must increase.
+    c.
+        5.7 * 10^(-7) * 3 * 10^(8) = 171 Hz
+9.
+    a?
+
+        ---Cell----------
+        |
+        Vr (rectangle with a slash through and a horizontal line at the top of the slash)
+        |              |
+       (A)             |
+        |              |
+        ------Diode--  |  
+            |--(V)--|
+    b.
+        i.
+            0.38 A
+        ii.
+            voltage = current * resistance
+        iii.
+            2.9/0.15 = 19.3333 ~= 19.3 Ohm
+        iv?
+            The current current in the battery in Diagram 2 must be 2.9 / (13 + 19.3) ~= 0.0899 A, which is lower than the current in the battery in diagram 1. This is because putting resistors in series leads to a lower current than putting them in parallel.
+10.
+    a.
+        i.
+            material of the metal rods
+        ii.
+            time taken for the coin to fall
+        iii.
+            1.
+                Use rods of the same length
+            2.
+                Use rods of the same diameter
+        iv.?
+            The student should repeat the experiment three times and take the mean of the results.
+    b.
+        i.
+            Discord
+        ii.
+            Because the independent variable is non-numerical and discrete.
+11.
+    a.
+        d
+    b.
+        5,2,3,4,1
+    
