@@ -7,5 +7,14 @@
         "max_score": 110,
         "percentage": 85,
         "raw_percentage": 0.8545454545454545
+    },
+    {
+        "name": "June 2020 QP",
+        "time": "2026-02-01 10:09:09.722311",
+        "score": 64,
+        "comment_file": ".\\June 2020 QP.comment",
+        "max_score": 70,
+        "percentage": 91,
+        "raw_percentage": 0.9142857142857143
     }
 ]

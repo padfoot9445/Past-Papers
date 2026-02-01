@@ -94,10 +94,10 @@ if __name__ == "__main__":
         file.write("\n".join(comments))
     
     with open(data_file, "r") as file:
-        if len(file.read()) == 0:
+        if len(s:= file.read()) == 0:
             current_data = []
         else:
-            current_data = cast(list[Any], json.load(file))
+            current_data = cast(list[Any], json.loads(s))
     with open(data_file, "w") as file:
         current_data.append(
             {
