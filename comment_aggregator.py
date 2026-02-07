@@ -1,0 +1,49 @@
+import argparse
+from pathlib import Path
+import sys
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument("-a", "--all", action="store_true")
+    parser.add_argument("--prior", action="store")
+    parser.add_argument("--create", action="store_true")
+    parser.add_argument("-o", "--out", action="store")
+    args = parser.parse_args(sys.argv[1:])
+    
+    rootdir = Path()
+
+    if args.create is True:
+        if args.prior is None:
+            args.prior = "comments.prior"
+        with open(args.prior, "w") as f:
+            f.write("")
+
+    if args.prior is None:
+        
+        priors: list[str] = []
+        prior_files = list(rootdir.glob("*.prior"))
+        assert len(prior_files) == 1
+        args.prior = prior_files[0]
+    
+    with open(args.prior, "r") as f:
+        priors = f.readlines()
+
+    
+    files = list(rootdir.glob("**/*.comment"))
+    if args.all is not True:
+        s_priors = set(priors)
+        files = list(filter(lambda x: x not in s_priors, files))
+    
+    out_file: str = "comments.aggregate" if args.out is None else args.out
+    with open(out_file, "w") as file: # type: ignore
+        file.write("")
+    with open(out_file, "a") as file:
+        for f in files:
+            with open(f, "r") as r_file:
+                file.write(r_file.read())
+                file.write("\n")
+    if args.all is not True:
+        with open(args.prior, "a") as f:
+            for file in files:
+                f.write(str(file) + "\n")
