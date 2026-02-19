@@ -1,43 +1,54 @@
-Process of star-formation
-Resistance is lower in parallel
-flashcard for circuit diagrams
-speed = frequency * wavelength; careless mistake
-Doppler effect: wavefronts are compressed; wavelength is smaller; speed of sound/light/wave-type is constant; frequency = speed of wave-type / wavelength
-When talking about difference between transverse and longitudinal waves, must reference vibrations/oscilations, and that they are perpendicular to direction of wave/energy transfer VS parallel
-when talking about how particles exert pressure, must reference p = F/A
-Ask whether g = 9.8 or 10
-force of gravity is known as weight/gravitational force
-Total internal reflection is when all light is reflected inside a medium, where the light is travelling from a higher refractive index to a lower refractive index, where the angle of incidence is greater than the critical angle
-180 degrees = pi, not 2pi
-always use degree mode
-Calculation error
-sin(C) = 1/n
-only need to talk about averaging, not outlier-removal
-Why does a DC current coil in a magnet only turn halfway? Because forces do not change direction as current cannot swap direction, and there is a lack of a split-ring or commutator
-Coil in a magnet moves because: the wire has a magnetic field; the field of the wire interacts with the field of the magnet; there is a force on [the wires of the field]; the forces are in opposite directions because the currents are in opposite directions
-At least three lines for magnetic fields
-Half-life is the average time for halving of the radioactivity, number of nuclei, and mass of isotope; half life is not avg time for halving of mass of substance/sample
-Try to give examples in Describe questions if relevant
-Sources of background radiation are: sun, cosmic rays. Invalid sources of background radiation are Cosmic Microwave Background Radiation
-Radiation flashcards
-Maybe 1. Circuit breakers are faster at isolating the circuit than fuses, and are resettable.
-Specify ELECTRIC insulator
-Gravitational field strength is proportional to mass
-USe g for gravitational field strength and not written out
-eval 3; inexplicable wrong calculation
-Star must be at the FOCUS of the ellipse
-transformer formula: input (primary) voltage / output(secondary) voltage = primary turns/secondary turns
-A transformer which decreases the voltage is a step-down transformer
-shape of magnetic field can be found by sprinkling iron fillings on the card and tapping the card; or else plotting the points of a compass repeatedly across several points and joining the dots given
-small pockets of air are used because air is a good insulator/poor conductor of heat, and small pockets are used to reduce convection as trapped air cannot circulate.
-AC <b>continually</b> changes direction where as DC goes in one direction only
-advantages of solar: low maintenance; no CO2 emissions; no contribution to global warming, greenhouse effect, and acid rain; is renewable
-Disadvantages of solar power: needs a favorable climate; doesn't work at night; needs a lot of space; cannot respond to rapid changes in demand
-always name greenhouse gases: carbon dioxide for fossil fuels.
-Law of moments: in equilibrium, sum of clockwise moments = sum of anticlockwise moments
-The point at which weight acts is called centre of gravity
-ammeter is spelt ammeter
-Electric field strength = voltage/distance between plates
-Something gains a positive charge by losing electrons
-Definition of gaseous state: Particles far apart; particles move with higher speed; particles move more randomly
-Weight measuring equipment is a balance
+{{c1::biological control doesn't kill all pests, has a delay, and is probably expensive::Disadvantages of biological control over pesticides}}
+{{c1::state directly the data without any inferences, then make inferences::how should an explain question relating to data be answered?}}
+{{c1::last longer/does not need reapplication, specific/does not affect food chain, no residue on crop, no bioaccumulation/biomagnification, pest does not become resistant::What are the advantages of biological control over pesticides?}}
+{{c1::less leaf area, fewer chloroplasts/chlorophyll, less photosynthesis, less carbohydrate::Why do moth larvae eating the leaves of maize plants reduce yield?}}
+{{c1::hours of daylight are better indicator of season, daylight does not vary (whereas temperature can vary day to day), more hours of daylight allow insects to see flowers, more insect pollination as insects pollinate during daylight::Why might hours of daylight be used instead of temperature for determining when a plant flowers?}}
+{{c1::to grow away from competition::Apart from increasing photosynthesis, why are plants positively phototrophic?}}
+{{c1::testis::What is the correct spelling of testes?}}
+{{c1::glucagon::What hormone causes conversion of glycogen into blood glucose?}}
+{{c1::insulin::What hormone causes conversion of blood glucose into glycogen?}}
+{{c1::calculate mean/average and repeat; the phrase "use quadrats"::what must be mentioned when talking about sampling?}}
+{{c1::provides an energy store for future respiration::what is the use of starch?}}
+{{c1::converts light energy into chemical energy via photosynthesis::What is the function of chloroplast?}}
+What trophic level is the {{c1::producer}}? {{c2::trophic level 1}}
+{{c1::no alleles passed on to next generation, natural selection, Disadvantage (e.g. short winged flies cannot evade predators as easily), so they do not survive::points for talking about natural selection}}
+{{c1::no need to duplicate repeated genotypes::do repeated genotypes need to be duplicated in punnet squares?}}
+{{c1::can get many repeats/many generations, have a range of visible phenotypes, short life span::Why are flies with a large child count and a short lifespan used in genetics experiments?}}
+{{c1::intakes more oxygen and releases more carbon dioxide to provide oxygen for respiration::What must be mentioned when talking about breathing rate wrt exercise?}}
+CHECK REDDIT ON GRAPH ADVICE
+{{c1::a new lense inside eye/glasses/contact lens; removal of affected lense::treatment for cataracts}}
+{{c1::lens becomes cloudy/misty/milky, less light enters eye, image dimmer/blurred (NOT poor vision)::what happens when Cataracts?}}
+{{c1::the name of the process (e.g. accommodation)::What must be mentioned when talking about a biological process?}}
+{{c1::the ciliary muscles contract, tension in suspensory ligaments is reduced (NOT suspensory ligaments relax), the lens becomes more convex, the light is bent more, called accommodation::process of eye focusing on objects}}
+{{c1::excess carbohydrates converted to fat, may become obese, may become diabetic, may fail to thrive/grow as lack protein::what are the impacts of feeding large quantities of carbohydrates to domestic dogs (carnivores)?}}
+{{c1::excess carbohydrates/energy/glucose converted to fat::what must be said when talking about food-intake related obesity?}}
+{{c1::general trends of data must be explicitly stated. E.g. saying "all components higher in young dog food" as opposed to listing each component and saying it is higher.::What must be mentioned in discuss questions?}}
+{{c1::bones, ATP, DNA::What are phosphates used for?}}
+{{c1::bones and teeth grow::why might more calcium be needed in young organisms?}}
+{{c1::amino acids for protein synthesis::What must be mentioned when talking about the importance of proteins?}}
+{{c1::muscles contract behind the bolus to squeeze it forwards and relax in front to allow it to move forwards::What happens during peristalsis?}}
+{{c1::many offspring produced/large numbers, produces genetically identical plants/clones::What are the traits of asexual reproduction as per the markscheme for 20241105 paper 1?}}
+{{c1::the specific mode of reproduction (transfer of pollen, use of runners etc)::What must be discussed when talking about breeding organisms?}}
+{{c1::cross with different variety/different plant::What must be mentioned when talking about using sexual reproduction to produce an organism with a different phenotype?}}
+{{c1::Using runners, stem/shoot grows along ground, grows root/clone/produces new plant on runners::How does a strawberry plant asexually reproduce?}}
+{{c1::The process of the pollen growing a pollen tube on the stigma::What is pollen germination?}}
+{{c1::waterlogged soil lacks oxygen; plant root cells cannot perform active transport; leaching occurs; causes algal bloom/eutrophication; blocks sunlight from reaching into the water; less photosynthesis by underwater plants; aquatic plants die; decomposers/bacteria consume the organic matter using up oxygen in respiration; respiration; less oxygen in water; fish/aquatic organisms die.}}
+{{c1::excess not absorbed; water lost by osmosis; crop already receiving sufficient nutrients; other limiting factors::Why might using more fertilizer not cause an increase in yield?}}
+{{c1::sweating cools the body; sweat evaporates more easily in dry conditions; lower concentration in humid conditions so slower evaporation::Sweating in hot and humid vs cold and dry environments and what must be mentioned when talking about sweat}}
+{{c1::vasodilation; arterioles get wider/dilate; more blood flow near skin surface; more heat lost/more radiated heat::What changes take place in the blood vessels in the skin in a hot environment?}}
+{{c1::blood stem cells can differentiate into different blood cells (name two); red blood cells AND to transport oxygen; white blood cells (or named) AND to destroy pathogens; platelets AND to help blood clotting/prevent blood loss}}
+{{c1::In a primary immune response, naive B cells are stimulated by antigen, become activated, and differentiate into antibody-secreting cells that produce antibodies specific for the eliciting antigen. A secondary immune response is elicited when the same antigen stimulates memory B cells, leading to the production of greater quantities of specific antibodies that are produced in the primary response.::Difference between primary and secondary immune response}}
+{{c1::dead bacteria/weaker virus/weaker pathogen/dead pathogen; antigens (present in vaccine); lymphocytes respond; memory cells produced; secondary immune response; more antibodies/antibodies produced faster/antibodies produced sooner::How does immunisation work?}}
+{{c1::Platelets}} convert fibrinogen to fibrin
+{{c1::prevent blood loss, prevent entry of pathogens::What is the use of a blood clot?}}
+{{c1::unspecialised; can undergo mitosis; can differentiate into other cell types::How do stem cells differ from other body cells?}}
+{{c1::Mention also the use of the nutrients, such as "food has high protein, useful for growth and repair of muscle cells"; and also mention how that relates to the specific situation ("has high energy so run well")::When comparing foods by nutrient (protein, carbs e.g.), what must be touched upon?}}
+{{c1::talk about all the benefits/downsides of each item locally::How should comparison questions be structured?}}
+{{c1::large surface area/more contact of tube with water; more energy transferred::Why does a calorimeter benefit from having a twisted waste gas pipe?}}
+{{c1::1g/ml::Density of water}}
+{{c1::same tissue type/similar genes/similar antigens; healthy/functioning/not diseased::What makes an organ suitable for transplant/donation?}}
+{{c1::living people are reluctant to donate as surgery may cause harm; more deceased donor kidneys available::Why might living people not want to donate their kidneys?}}
+{{c1::genetically similar, same/similar proteins/antigens; no/less immune response::Why is getting an organ donation from a close relative better?}}
+{{c1::phagocytes ENGULF bacteria/viruses/pathogens; lymphocytes produce antibodies; bacteria/viruses/pathogens/antigens are killed/removed; make memory cells::What happens in an immune response?}}
+{{c1::permanent, can lead normal life, doesn't require repeated visits to hospital, kidney can perform other functions::Why is kidney transplant preferable to dialysis?}}
+{{c1::urea, water, salt::What waste products does urine remove?}}
