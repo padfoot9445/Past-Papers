@@ -25,5 +25,14 @@
         "max_score": 110,
         "percentage": 84,
         "raw_percentage": 0.8363636363636363
+    },
+    {
+        "name": "4bi1-2b-que-20241116",
+        "time": "2026-02-19 20:28:12.557668",
+        "score": 57,
+        "comment_file": ".\\4bi1-2b-que-20241116.comment",
+        "max_score": 70,
+        "percentage": 81,
+        "raw_percentage": 0.8142857142857143
     }
 ]
