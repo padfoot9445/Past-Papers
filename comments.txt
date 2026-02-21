@@ -15,7 +15,6 @@ What trophic level is the {{c1::producer}}? {{c2::trophic level 1}}
 {{c1::no need to duplicate repeated genotypes::do repeated genotypes need to be duplicated in punnet squares?}}
 {{c1::can get many repeats/many generations, have a range of visible phenotypes, short life span::Why are flies with a large child count and a short lifespan used in genetics experiments?}}
 {{c1::intakes more oxygen and releases more carbon dioxide to provide oxygen for respiration::What must be mentioned when talking about breathing rate wrt exercise?}}
-CHECK REDDIT ON GRAPH ADVICE
 {{c1::a new lense inside eye/glasses/contact lens; removal of affected lense::treatment for cataracts}}
 {{c1::lens becomes cloudy/misty/milky, less light enters eye, image dimmer/blurred (NOT poor vision)::what happens when Cataracts?}}
 {{c1::the name of the process (e.g. accommodation)::What must be mentioned when talking about a biological process?}}
