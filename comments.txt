@@ -1,53 +1,16 @@
-{{c1::biological control doesn't kill all pests, has a delay, and is probably expensive::Disadvantages of biological control over pesticides}}
-{{c1::state directly the data without any inferences, then make inferences::how should an explain question relating to data be answered?}}
-{{c1::last longer/does not need reapplication, specific/does not affect food chain, no residue on crop, no bioaccumulation/biomagnification, pest does not become resistant::What are the advantages of biological control over pesticides?}}
-{{c1::less leaf area, fewer chloroplasts/chlorophyll, less photosynthesis, less carbohydrate::Why do moth larvae eating the leaves of maize plants reduce yield?}}
-{{c1::hours of daylight are better indicator of season, daylight does not vary (whereas temperature can vary day to day), more hours of daylight allow insects to see flowers, more insect pollination as insects pollinate during daylight::Why might hours of daylight be used instead of temperature for determining when a plant flowers?}}
-{{c1::to grow away from competition::Apart from increasing photosynthesis, why are plants positively phototrophic?}}
-{{c1::testis::What is the correct spelling of testes?}}
-{{c1::glucagon::What hormone causes conversion of glycogen into blood glucose?}}
-{{c1::insulin::What hormone causes conversion of blood glucose into glycogen?}}
-{{c1::calculate mean/average and repeat; the phrase "use quadrats"::what must be mentioned when talking about sampling?}}
-{{c1::provides an energy store for future respiration::what is the use of starch?}}
-{{c1::converts light energy into chemical energy via photosynthesis::What is the function of chloroplast?}}
-What trophic level is the {{c1::producer}}? {{c2::trophic level 1}}
-{{c1::no alleles passed on to next generation, natural selection, Disadvantage (e.g. short winged flies cannot evade predators as easily), so they do not survive::points for talking about natural selection}}
-{{c1::no need to duplicate repeated genotypes::do repeated genotypes need to be duplicated in punnet squares?}}
-{{c1::can get many repeats/many generations, have a range of visible phenotypes, short life span::Why are flies with a large child count and a short lifespan used in genetics experiments?}}
-{{c1::intakes more oxygen and releases more carbon dioxide to provide oxygen for respiration::What must be mentioned when talking about breathing rate wrt exercise?}}
-{{c1::a new lense inside eye/glasses/contact lens; removal of affected lense::treatment for cataracts}}
-{{c1::lens becomes cloudy/misty/milky, less light enters eye, image dimmer/blurred (NOT poor vision)::what happens when Cataracts?}}
-{{c1::the name of the process (e.g. accommodation)::What must be mentioned when talking about a biological process?}}
-{{c1::the ciliary muscles contract, tension in suspensory ligaments is reduced (NOT suspensory ligaments relax), the lens becomes more convex, the light is bent more, called accommodation::process of eye focusing on objects}}
-{{c1::excess carbohydrates converted to fat, may become obese, may become diabetic, may fail to thrive/grow as lack protein::what are the impacts of feeding large quantities of carbohydrates to domestic dogs (carnivores)?}}
-{{c1::excess carbohydrates/energy/glucose converted to fat::what must be said when talking about food-intake related obesity?}}
-{{c1::general trends of data must be explicitly stated. E.g. saying "all components higher in young dog food" as opposed to listing each component and saying it is higher.::What must be mentioned in discuss questions?}}
-{{c1::bones, ATP, DNA::What are phosphates used for?}}
-{{c1::bones and teeth grow::why might more calcium be needed in young organisms?}}
-{{c1::amino acids for protein synthesis::What must be mentioned when talking about the importance of proteins?}}
-{{c1::muscles contract behind the bolus to squeeze it forwards and relax in front to allow it to move forwards::What happens during peristalsis?}}
-{{c1::many offspring produced/large numbers, produces genetically identical plants/clones::What are the traits of asexual reproduction as per the markscheme for 20241105 paper 1?}}
-{{c1::the specific mode of reproduction (transfer of pollen, use of runners etc)::What must be discussed when talking about breeding organisms?}}
-{{c1::cross with different variety/different plant::What must be mentioned when talking about using sexual reproduction to produce an organism with a different phenotype?}}
-{{c1::Using runners, stem/shoot grows along ground, grows root/clone/produces new plant on runners::How does a strawberry plant asexually reproduce?}}
-{{c1::The process of the pollen growing a pollen tube on the stigma::What is pollen germination?}}
-{{c1::waterlogged soil lacks oxygen; plant root cells cannot perform active transport; leaching occurs; causes algal bloom/eutrophication; blocks sunlight from reaching into the water; less photosynthesis by underwater plants; aquatic plants die; decomposers/bacteria consume the organic matter using up oxygen in respiration; respiration; less oxygen in water; fish/aquatic organisms die.}}
-{{c1::excess not absorbed; water lost by osmosis; crop already receiving sufficient nutrients; other limiting factors::Why might using more fertilizer not cause an increase in yield?}}
-{{c1::sweating cools the body; sweat evaporates more easily in dry conditions; lower concentration in humid conditions so slower evaporation::Sweating in hot and humid vs cold and dry environments and what must be mentioned when talking about sweat}}
-{{c1::vasodilation; arterioles get wider/dilate; more blood flow near skin surface; more heat lost/more radiated heat::What changes take place in the blood vessels in the skin in a hot environment?}}
-{{c1::blood stem cells can differentiate into different blood cells (name two); red blood cells AND to transport oxygen; white blood cells (or named) AND to destroy pathogens; platelets AND to help blood clotting/prevent blood loss}}
-{{c1::In a primary immune response, naive B cells are stimulated by antigen, become activated, and differentiate into antibody-secreting cells that produce antibodies specific for the eliciting antigen. A secondary immune response is elicited when the same antigen stimulates memory B cells, leading to the production of greater quantities of specific antibodies that are produced in the primary response.::Difference between primary and secondary immune response}}
-{{c1::dead bacteria/weaker virus/weaker pathogen/dead pathogen; antigens (present in vaccine); lymphocytes respond; memory cells produced; secondary immune response; more antibodies/antibodies produced faster/antibodies produced sooner::How does immunisation work?}}
-{{c1::Platelets}} convert fibrinogen to fibrin
-{{c1::prevent blood loss, prevent entry of pathogens::What is the use of a blood clot?}}
-{{c1::unspecialised; can undergo mitosis; can differentiate into other cell types::How do stem cells differ from other body cells?}}
-{{c1::Mention also the use of the nutrients, such as "food has high protein, useful for growth and repair of muscle cells"; and also mention how that relates to the specific situation ("has high energy so run well")::When comparing foods by nutrient (protein, carbs e.g.), what must be touched upon?}}
-{{c1::talk about all the benefits/downsides of each item locally::How should comparison questions be structured?}}
-{{c1::large surface area/more contact of tube with water; more energy transferred::Why does a calorimeter benefit from having a twisted waste gas pipe?}}
-{{c1::1g/ml::Density of water}}
-{{c1::same tissue type/similar genes/similar antigens; healthy/functioning/not diseased::What makes an organ suitable for transplant/donation?}}
-{{c1::living people are reluctant to donate as surgery may cause harm; more deceased donor kidneys available::Why might living people not want to donate their kidneys?}}
-{{c1::genetically similar, same/similar proteins/antigens; no/less immune response::Why is getting an organ donation from a close relative better?}}
-{{c1::phagocytes ENGULF bacteria/viruses/pathogens; lymphocytes produce antibodies; bacteria/viruses/pathogens/antigens are killed/removed; make memory cells::What happens in an immune response?}}
-{{c1::permanent, can lead normal life, doesn't require repeated visits to hospital, kidney can perform other functions::Why is kidney transplant preferable to dialysis?}}
-{{c1::urea, water, salt::What waste products does urine remove?}}
+
+{{c1::reactants - products::how to calculate enthalpy change given reactant and product bond energies?}}
+{{c1::Blue Litmus paper tests for ph (turns red in acid), so does nothing in organic solution but turns red in water solution as there are H+ ions so is acidic, and DOES NOT BLEACH WHITE if chloride ions only but not chlorine gas::How does blue litmus paper function in HCL solution in water (where HCL is ionized) or in organic solution (where HCL is not ionized?)}}
+{{c1::Brown vapour/gas/fumes::What can be observed at the positive electrode in electrolysis of molten lead bromide?}}
+{{c1::Always use graphite even if high temp::What electrodes must be used in high temperatures?}}
+{{c1::When solid the ions are in fixed positions/in a lattice::What must be mentioned when talking about how solid ionic compounds do not have ionis which are free to move?}}
+{{c1::distilled::What water is used to wash the precipitate salt after it is filtered in obtaining a dry sample of precipitate salt from a neutralisation reaction?}}
+{{c1::Esters must be written in pseudo-structural formula; e.g. CH3OOCH or HCOOCH3 instead of  C2H4O2 (and NOT CH3COOH)::How must esters be written?}}
+{{c1::Not enough supply/greater demand for smaller fractions; alkenes are produced to make polymers (e.g. plastics); smaller fractions/alkanes are needed for petrol/"fuel for cars"::Why is cracking done?}}
+{{c1::alumina::How is the catalyst for cracking starting with A... spelt?}}
+{{c1::Fractionating column::What is the equipment used for fractional distillation and how is it spelt?}}
+{{c1::The crude oil vaporizes, NOT evaporates::What happens when crude oil is heated for fractional distillation?}}
+{{c1::Aircraft fuel::What is the use of kerosene?}}
+{{c1::Refinery gases::What is the top fraction of a fractionating column?}}
+{{c1::A more reactive metal is connected to the iron; the more reactive metal will react/corrode instead of iron::How does sacrificial metal work?}}
+{{c1::Because sodium has a larger atomic radius; there is less attraction to the nucleus for the outer electron; so the outer electron is more easily lost::Why is sodium more reactive than lithium?}}

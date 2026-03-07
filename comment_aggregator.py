@@ -9,6 +9,7 @@ if __name__ == "__main__":
     parser.add_argument("--prior", action="store")
     parser.add_argument("--create", action="store_true")
     parser.add_argument("-o", "--out", action="store")
+    parser.add_argument('--comment-files', nargs='+', required=False, default=None)
     args = parser.parse_args(sys.argv[1:])
     
     rootdir = Path()
@@ -30,10 +31,13 @@ if __name__ == "__main__":
         priors = f.readlines()
 
     
-    files = list(rootdir.glob("**/*.comment"))
-    if args.all is not True:
-        s_priors = set(priors)
-        files = list(filter(lambda x: x not in s_priors, files))
+    if args.comment_files is None:
+        files = list(rootdir.glob("**/*.comment"))
+        if args.all is not True:
+            s_priors = set(priors)
+            files = list(filter(lambda x: x not in s_priors, files))
+    else:
+        files = args.comment_files
     
     out_file: str = "comments.aggregate" if args.out is None else args.out
     with open(out_file, "w") as file: # type: ignore
