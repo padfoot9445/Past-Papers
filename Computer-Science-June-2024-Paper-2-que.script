@@ -1,0 +1,157 @@
+1?
+    D
+2.
+    a.
+        Procedure
+        Local variable
+        Parameter
+        function
+    b.
+        Average(25, 50)
+    c.
+        Procedures and functions allow a program to be broken up into logical units and components of code which can be reused, preventing code duplication. By allowing the program to be broken up into logical units of code which can be named, the process of reasoning about the program can be simplified: given a descriptive name, one can reason about the function as a whole. In addition, the prevention of code reuse means that if there is a bug in the function, instead of having to track down everywhere it is called (where the code would have been duplicated) to fix it, which is error-prone and tedious, one can simply fix it in the function itself.
+3.
+    Integer. Stores whole numbers. 3
+    Real. Stores decimal or other non-whole numbers. 3.1415926
+4.
+    a.
+        7
+            FOR Loop <-- 1 TO Limit
+        1
+            DECLARE Loop : INTEGER
+        10
+            Total <-- Total * Value
+        09
+            INPUT Value
+    b.
+        OUTPUT "The average of the numbers entered is ", ROUND(Total/Limit, 1)
+    c.
+        insert, between lines 9 and 10, indented to the appropriate level,
+        WHILE Value > 500 OR Value < 1
+            OUTPUT "Please input a value between 1 and 500"
+            INPUT Value
+        ENDWHILE
+        This will execute iff the value entered in the first place was outside of the range, and will request a new value until the value is within range.
+5.
+    DECLARE Value : INTEGER
+    INPUT Value
+    MATCH ON Value
+        CASE OF 1
+            OUTPUT 1
+        CASE OF 2
+            OUTPUT 2
+        CASE OF 3
+            OUTPUT 3
+        CASE OF 4
+            OUTPUT 4
+        OTHERWISE
+            OUTPUT "ERROR"
+    ENDMATCH
+6.
+    a.
+        7, 47, 50, 52, 60, 80, 63, 70
+    b.
+        The algorithm takes in a limit, then [limit] amount of integers, then outputs their median by putting the integers in an array and sorting them and outputting the middle value.
+7.
+    a.
+        It is useful to store data in a file to persist it across program-activations and to better manage the storage and structure of data on disk.
+    b.
+        DECLARE Text : STRING
+        OPEN "Quotation.txt"
+        READ Text
+        OUTPUT "Uppercase: ", Uppercase(Text)
+        OUTPUT "Length: ", Length(Text)
+8.
+    a.
+    b.
+        1   0   1
+        0   1   1
+        1   0   1
+        0   0   0
+        1   0   1
+        1   1   0
+        1   0   1
+        1   0   1
+9.
+    a.
+        No, as none of these will uniquely identify the drink, supplier, container etc.
+    b.
+        SELECT COUNT(1)
+        FROM SoftDrinks
+        WHERE Container = "Can"
+
+10.
+    # Assume:
+    # Clubs: list[str]
+    # Statistics: list[list[int]] #assume [[wins, draws, losses], ...]
+    # Points: list[int]
+
+    from typing import Final, Literal
+
+    MAX_MATCHES: Final = 22
+    ZERO: Literal[0] = 0
+    WIN_POINTS: Final = 12
+    DRAW_POINTS: Final = 5
+    LOSS_POINTS: Final = 0
+
+
+    
+    def get_number_in_range(low: int, high: int) -> int:
+        """takes input from stdin until low <= int(input()) <= high. Returns the first such valid value."""
+        
+        # Initialize value to an invalid state
+        value: int | None = None
+        
+        #take input until value becomes valid
+        while value == None or not(low <= value <= high):
+            try:
+                value = int(input(f"Please enter a number between {low} and {high} for the number of matches per team"))
+            except ValueError:
+                print("Please input a number!")
+        return value
+    
+    #get number of matches
+
+    Matches = get_number_in_range(ZERO, MAX_MATCHES)
+
+    # Input teams until finished
+    while True:
+        club = input("Please enter the name of the club or just press enter (leaving the input empty or with only whitespace) to exit")
+
+        if len(club.strip()) == ZERO:
+            break #if there is only whitespace or there is no input at all, break
+
+        Clubs.append(club)
+
+        # we cannot have negative won/draw/lost matches, and we know immediately the total will be too high if the user inputs any one of the value as higher than Matches, so we use get_number_in_range again
+        won = get_number_in_range(ZERO, Matches)
+        draw = get_number_in_range(ZERO, Matches)
+        lost = get_number_in_range(ZERO, Matches)
+
+        #while the total does not match the number of matches played, ask the user to input again
+
+        while won + draw + lost != Matches:
+            won = get_number_in_range(ZERO, Matches)
+            draw = get_number_in_range(ZERO, Matches)
+            lost = get_number_in_range(ZERO, Matches)
+        
+        Statistics.append([won, draw, lost])
+        Points.append(won * WIN_POINTS + draw * DRAW_POINTS + lost * LOSS_POINTS)
+    victors: list[tuple[str, int, int]] = [] # (name, number of wins, points awarded)
+    
+    max_points = -1 #initialize to impossibly low value
+
+    #find club(s) with max points by looping through array
+    for points, club, stats in zip(Points, Clubs, Statistics):
+
+        persistent_tuple = (club, stats[0], points) # club name, wins, points awarded
+        if points > max_points:
+            max_points = points
+            victors = [persistent_tuple]
+        elif points == max_points:
+            victors.append(persistent_tuple)
+    
+    print(f"Total points of winning club(s): {victors[0][2]}") #all points are the same, so no point outputting more than once
+    print("Winning club(s): ")
+
+    print(",\n".join(f"{club} with {wins} wins" for club, wins, _ in victors)) #output names and wins of winning clubs separated by a comma and a newline
