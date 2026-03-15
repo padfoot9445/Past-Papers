@@ -62,43 +62,46 @@ def parse_marking(mark_script: str, current: int = 0) -> tuple[int, list[str]]:
     rest_score, rest_comment = parse_marking(mark_script, current)
     return rest_score + score, rest_comment + comment
 
-    
+import argparse
+
 if __name__ == "__main__":
-    if len(sys.argv) != 5:
-        print("USAGE: [marking_file (where the scores are stored)] [comment_file (where to output comments)] [data_file (where to log the score and other data)] [max_score]")
-        exit(-1)
+
+    parser = argparse.ArgumentParser()
+
+    def get_validator(suffix: str):
+        def validate(value: str):
+            assert pathlib.Path(value).suffix == suffix
+            return value
+        return validate
+
+    parser.add_argument("--marking_file", "-m", type=get_validator(".marking"), required=True)
+    parser.add_argument("--comment_file", "-c", required=False)
+    parser.add_argument("--data_file", "-d", type=get_validator(".json"), required=True)
+    parser.add_argument("--max_score", "-s", type=int, required=True)
+    parser.add_argument("--auto", "-a", action="store_true", default=False, required=False)
+    arguments = parser.parse_args(sys.argv[1:])
     
-    marking_file = sys.argv[1]
-    comment_file = sys.argv[2]
-    data_file = sys.argv[3]
-    try:
-        max_score = int(sys.argv[4])
-    except ValueError:
-        print("Max_Score must be an integer")
-        exit(-1)
+    marking_file = arguments.marking_file
+    comment_file = arguments.comment_file
+    data_file = arguments.data_file
+    max_score = arguments.max_score
 
-    if pathlib.Path(marking_file).suffix != ".marking":
-        print("Marking files must have extension .marking")
-        exit(-1)
-    elif pathlib.Path(data_file).suffix != ".json":
-        print("data_file must be a JSON file")
-        exit(-1)
 
-    if comment_file == "--auto":
+    if arguments.auto:
         comment_file = pathlib.Path(marking_file).stem + ".comment"
 
-    with open(marking_file, "r") as file:
+    with open(marking_file, "r", encoding="UTF8") as file:
         score, comments = parse_marking(file.read())
     
-    with open(comment_file, "w") as file:
+    with open(comment_file, "w", encoding="UTF8") as file:
         file.write("\n".join(comments))
     
-    with open(data_file, "r") as file:
+    with open(data_file, "r", encoding="UTF8") as file:
         if len(s:= file.read()) == 0:
             current_data = []
         else:
             current_data = cast(list[Any], json.loads(s))
-    with open(data_file, "w") as file:
+    with open(data_file, "w", encoding="UTF8") as file:
         current_data.append(
             {
                 "name": pathlib.Path(marking_file).stem,
