@@ -1,0 +1,98 @@
+1.
+    a.
+        B
+    b.
+        i.
+            1. Lossy Compression
+            2. Lossless Compression
+        ii.
+            1. Less bandwidth required, so cheaper
+            2. Less storage space required, so cheaper
+            3. Faster transmission
+2.
+    a.
+        1. Microphone
+        2. Camera
+    b?
+        1. Speaker
+        2. Screen
+    c.
+        i? Primary vs secondary storage -- what are they?
+            To persist data for a long time, including across phone restarts and relaunches of application or programs
+        ii? Advantages and disadvantages of storage types
+            Solid State Drive
+            Because it is fast and responsive, and can store more data in less space (is compact), which is suitable for a smartphone as it requires compactness; and because it has no moving parts, so is less likely to break, which is also desirable as it is harder to repair a smartphone.
+3.
+    a.
+        Unicode
+    b.
+        i.
+            65 01000001
+            109 01101101
+        ii.
+            41
+            6D
+    c.
+        i.
+            121
+        ii.
+            79
+        iii.
+            00011110
+    d.
+        01010100
+        01110100
+         111 1
+        11001000
+4.
+    a?
+        There is a header including the destination IP address and packet number. This is used to route the packet (send the packet to the correct destination) as well as to resassemble the initial data after the packet is received.
+        There is a body containing the data for the packet. This is a section of the email-data.
+        There is a footer containing the source IP address.
+    b.
+        i.
+            Full duplex because employees may need to send each other emails at once. Full duplex allows for simultaneous transmission in both directions. Parallel allows for faster speed of transmission of data, as many bits of data are sent at the same time. This is useful as the time employees will have to spend waiting for an email to be sent/waiting to receive an email will result in lost productivity so should be minimized.
+        ii? advantages and disadvantages of all forms of data transmission
+            1. Parallel data transmission may be hard to implement and to synchronize; and may go out of sync.
+            2. Full duplex data transmission is often more expensive than half-duplex.
+        iii.
+            Parallel half duplex data transmission
+5.
+    a? FDE cycle
+        1.
+            Memory Address Register
+        2.
+            Program Counter
+    b?
+        After having fetched the instruction from memory, the Control Unit reads the instruction and decides what operations need to be done to execute the instruction.
+    c.
+        Accumulator
+    d?
+        data control register
+    e.
+        This will mean that the CPU is able to execute instructions faster (3.5 > 2.4), so will execute the same program in less time and so the computer will be more responsive and be faster.
+6.
+    a?
+        A system with no operating system
+    b.
+        Assembler
+    c.
+        They could be displayed in Hexadecimal
+    d.
+        The programmer has fine-grained control of memory operations and of the embedded system.
+    e?
+        The IDE can run tests to help the programmer detect bugs.
+        The IDE can highlight the program and use a linter to help the programmer detect syntax errors.
+        The IDE can provide auto-complete or other suggestions to help the programmer program faster.
+7.
+    a.
+        i.
+            D
+        ii? Functions of an operating system
+            Managing volatile memory
+            To ensure that programs do not take up memory even once they are terminated; to allocate memory to programs when they require it; and to ensure malicious programs cannot access the memory of other programs which may contain sensitive data.
+    b.
+        Instruction Set
+8?
+    
+             
