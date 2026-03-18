@@ -1,0 +1,45 @@
+1.
+    a.
+        1
+    b.
+        2
+    c.
+        3
+2.
+    a.
+        2
+    b.
+        2 [{{c1::Screen; Speaker; LED; Actuator::What are four output devices of a smartphone?}}]
+    c.
+        i.
+            [{{c1::volatile storage such as RAM or cache::What is Primary Storage?}} {{c2::PERMANENT storage such as HDD::What is secondary storage?}}] [{{c1::to store data/files PERMANENTLY; otherwise, data/programs would need to be entered every time the phone was turned on; to allow SOFTWARE to be installed into the smartphone; to store user files; for the creation of VIRTUAL MEMORY}}]
+            0
+        ii.
+            4 [{{c1::solid state drive; small/thin in size; so would fit easily into the smartphone device; it is lightweight; so wouldn't make the phone heavy to carry; it has no moving parts; so would be durable/robust; if the phone is dropped the data is less likely to be damaged; it has fast read/write speeds; so it would be quick to load files/software; it runs at a cool temperature; so it wouldn't make the smartphone hot to hold for th euser; it doesn't make a lot of noise; so it wouldn't ruin the user's experience of listening to music/watching videos; it doesn't require much power; so it won't drain the battery; it can have a large storage capacity; so can store files that are multimedia::What secondary storage should be used for smartphones and why?}}] [{{c1::Much faster speeds; No moving parts (more durable); Silent operation; Lower power consumption; Compact and lightweight::What are the advantages of SSDs?}}] [{{c1::More expensive per GB; Limited write lifespan; Smaller max capacities (generally)::What are the disadvantages of SSDs?}}] [{{c1::Cheaper per GB; Very high capacities available; Good for long-term storage::What are the advantages of HDDs?}}] [{{c1::Slower performance; Mechanical parts (more prone to failure); Noisy; Higher power consumption; Bulkier::What are the disadvantages of HDDs?}}]
+3.
+    a.
+        1
+    b.
+        i.
+            2
+        ii.
+            2
+    c.
+        i.
+            1
+        ii.
+            1
+        iii.
+            1
+    d.
+        3
+4.
+    a.
+        2 [{{c1::payload::What is the bit containing the data called in a packet?}}] [{{c1::the data packet has three sections; it has a packet header; which contains data such as the destination address; it has a payload; which contains the main data; it has a trailer; which contains data such as the error detection system used::What is the structure of a packet?}}]
+    b.
+        i.
+            3 [{{c1::it sends the data multiple bits at the same time; so the transmission speed of the data will be fast; data may not need to travel al ong distance; as the devices are all within a single room; it sends data in both directions at the sam eitme; so users on the network can send data to each other with no delay::Why might a company with all its workers on computers in the same room use parallel full duplex transmission?}}]
+        ii.
+            [{{c1::Faster data transfer over short distances; Can send multiple bits simultaneously; Simple implementation for short links::What are the advantages of parallel transmission?}}]
+            [{{c1::Prone to interference and crosstalk; Limited to short distances; Bulkier and more expensive cabling::What are the disadvantages of parallel transmission?}}] [{{c1::Reliable over long distances; Less interference and crosstalk; Cheaper and simpler cabling::What are the advantages of serial transmission?}}] [{{c1::Slower than parallel for short distances; Sends one bit at a time; May require more complex timing mechanisms::What are the disadvantages of serial transmission?}}] [{{c1::Simple and cost-effective; Easy to implement; No need for complex coordination::What are the advantages of simplex communication?}}] [{{c1::One-way communication only; No feedback or error correction from receiver; Inefficient for interactive systems::What are the disadvantages of simplex communication?}}] [{{c1::Allows two-way communication (not simultaneous); More efficient than simplex; Shares a single channel::What are the advantages of half-duplex communication?}}] [{{c1::Cannot send and receive at the same time; Possible delays when switching direction; Lower efficiency than full duplex::What are the disadvantages of half-duplex communication?}}] [{{c1::Simultaneous two-way communication; More efficient and faster; No waiting for transmission turns::What are the advantages of full-duplex communication?}}] [{{c1::More complex and expensive to implement; Requires more bandwidth or separate channels; Higher power usage::What are the disadvantages of full-duplex communication?}}]
+    
