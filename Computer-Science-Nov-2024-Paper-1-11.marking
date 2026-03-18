@@ -41,5 +41,52 @@
             3 [{{c1::it sends the data multiple bits at the same time; so the transmission speed of the data will be fast; data may not need to travel al ong distance; as the devices are all within a single room; it sends data in both directions at the sam eitme; so users on the network can send data to each other with no delay::Why might a company with all its workers on computers in the same room use parallel full duplex transmission?}}]
         ii.
             [{{c1::Faster data transfer over short distances; Can send multiple bits simultaneously; Simple implementation for short links::What are the advantages of parallel transmission?}}]
-            [{{c1::Prone to interference and crosstalk; Limited to short distances; Bulkier and more expensive cabling::What are the disadvantages of parallel transmission?}}] [{{c1::Reliable over long distances; Less interference and crosstalk; Cheaper and simpler cabling::What are the advantages of serial transmission?}}] [{{c1::Slower than parallel for short distances; Sends one bit at a time; May require more complex timing mechanisms::What are the disadvantages of serial transmission?}}] [{{c1::Simple and cost-effective; Easy to implement; No need for complex coordination::What are the advantages of simplex communication?}}] [{{c1::One-way communication only; No feedback or error correction from receiver; Inefficient for interactive systems::What are the disadvantages of simplex communication?}}] [{{c1::Allows two-way communication (not simultaneous); More efficient than simplex; Shares a single channel::What are the advantages of half-duplex communication?}}] [{{c1::Cannot send and receive at the same time; Possible delays when switching direction; Lower efficiency than full duplex::What are the disadvantages of half-duplex communication?}}] [{{c1::Simultaneous two-way communication; More efficient and faster; No waiting for transmission turns::What are the advantages of full-duplex communication?}}] [{{c1::More complex and expensive to implement; Requires more bandwidth or separate channels; Higher power usage::What are the disadvantages of full-duplex communication?}}]
-    
+            [{{c1::Prone to interference and crosstalk; Limited to short distances; Bulkier and more expensive cabling; DATA may be skewed due to multiple bits at a time; BITS may arrive out of order::What are the disadvantages of parallel transmission?}}]
+            [{{c1::Reliable over long distances; Less interference and crosstalk; Cheaper and simpler cabling::What are the advantages of serial transmission?}}]
+            [{{c1::Slower than parallel for short distances; Sends one bit at a time; May require more complex timing mechanisms::What are the disadvantages of serial transmission?}}]
+            [{{c1::Simple and cost-effective; Easy to implement; No need for complex coordination::What are the advantages of simplex communication?}}]
+            [{{c1::One-way communication only; No feedback or error correction from receiver; Inefficient for interactive systems::What are the disadvantages of simplex communication?}}]
+            [{{c1::Allows two-way communication (not simultaneous); More efficient than simplex; Shares a single channel::What are the advantages of half-duplex communication?}}]
+            [{{c1::Cannot send and receive at the same time; Possible delays when switching direction; Lower efficiency than full duplex::What are the disadvantages of half-duplex communication?}}]
+            [{{c1::Simultaneous two-way communication; More efficient and faster; No waiting for transmission turns::What are the advantages of full-duplex communication?}}]
+            [{{c1::Requires more bandwidth or separate channels; Higher power usage; More chance of data collisions as data sent in both directions at the same time::What are the disadvantages of full-duplex communication?}}] 0
+        iii.
+            1
+5.
+    a.
+        2
+    b.
+        [{{c1::CU receives the instruction from the MDR; via the data bus; instruction is SEPARATED into opcode and operand; control unit decodes the instruction; using an instruction set::What happens in the decode stage of FDE?}}] 0
+    c.
+        1
+    d.
+        2 [{{c1::data, control, address::What three buses are used in the CPU?}}]
+    e.
+        0 [{{c1::It can now execute MORE instructions PER SECOND; this will incrase the performance of the CPU::What does increasing clock frequency on a CPU do?}}]
+6.
+    a.
+        [{{c1::Computer system that is designed to perform a dedicated/single function; Computer system that contains a microprocessor and dedicated hardware; Computer system that is built into a larger system}}] 0
+    b.
+        1
+    c.
+        1
+    d.
+        [{{c1::More control over manipulating the hardware; faster execution for testing than a high-level language; they can use machine specific instructions (prefer omitting #2)::What are advantages of using assembly language?}}]
+    e.
+        1 [{{c1::Code editor; that allows hte user to enter and amend code in their program; Run-time environment; that allows a program to be run and see the outputs of their program; Error-diagnostic; to show the programmer where there are errors in the program; Auto-completion; to give the user OPTIONS/SUGGESTIONS of key commands to select; Auto-correction; to correct a command that has a MINOR MISSPELLING; Prettyprint; changes the color of KEY COMMANDS so they are easy to identify}}]
+7.
+    a.
+        i.
+            1
+        ii.
+            1 [{{c1::memory management; managing what gets allocated where in memory; managing peripherals and drivers; managing the communication between any input and output devices that are connected to the computer; multitasking; managing the process of switching between tasks that are being carried out; platform for running applications; allowing communication between the applicatoins' software and the hardware; system security; proving features such as username and password; user accounts; allowing multiple user accounts to be created on a computer}}]
+    b.
+        [{{c1::Firmware; bootloader; BIOS; Bootstrap::What is the name of the set of instructions that are provided to the operating systme to allow it to run?}}] 0
+8.
+    0
+9.
+    a.
+        6 [{{c1::rule base::What are facts in the knowledge base linked to to decide which questions to ask in an expert system?}}]
+    b.
+        1
+        
