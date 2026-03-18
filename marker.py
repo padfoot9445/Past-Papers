@@ -74,10 +74,10 @@ if __name__ == "__main__":
             return value
         return validate
 
-    parser.add_argument("--marking_file", "-m", type=get_validator(".marking"), required=True)
-    parser.add_argument("--comment_file", "-c", required=False)
-    parser.add_argument("--data_file", "-d", type=get_validator(".json"), required=True)
-    parser.add_argument("--max_score", "-s", type=int, required=True)
+    parser.add_argument("--marking-file", "-m", type=get_validator(".marking"), required=True)
+    parser.add_argument("--comment-file", "-c", required=False)
+    parser.add_argument("--data-file", "-d", type=get_validator(".json"), required=True)
+    parser.add_argument("--max-score", "-s", type=int, required=True)
     parser.add_argument("--auto", "-a", action="store_true", default=False, required=False)
     arguments = parser.parse_args(sys.argv[1:])
     
