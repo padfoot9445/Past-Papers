@@ -1,0 +1,93 @@
+1.
+    a.
+        2
+        1
+        1
+        1
+        2
+    b?
+        1.
+            High pressure which forces the atoms together to overcome the effects of the repulsive electrostatic force between them
+        2.
+            High temperature to allow the atoms to overcome the effects of the repulsive electrostatic force and fuse.
+2.
+    a.
+        i?
+            F = 19/.55 =  34.545...~=34.5 N
+        ii.
+            A
+    b.
+        i.
+            Let K be the weight of the lower leg in newtons.
+            Force Y = 0.25K/0.35 = 0.25/0.35 * K
+            Force X = 0.35/0.25 * K
+            0.25/0.35 < 1 < 0.35/0.25 so force X is larger
+        ii.
+            Force X decreases and force Y increases as the bag is moved toward the person's foot. This is because as the bag is moved toward the person's foot, the combined centre of gravity of the bag-and-leg also moves towards the person's foot. Letting a = the perpendicular distance of the centre of gravity from support A and b = the perpendicular distance of the centre of gravity from support B, we see as in b(i) that force X = b/a * (K + weight of ice), and that force Y = a/b * (K + weight of ice). As the ice is moved towards the foot the centre of gravity also shifts towards the foot, increasing a and decreasing b. It is easy to see that this decreases force X but increases force Y.
+3.
+    a.
+
+        Extra apparatus: stopwatch, balance.
+
+        Firstly, the student should measure the mass of the water by pouring it into a beaker on a balance (zeroed on the beaker).
+
+        The student can measure the power output of the circuit by multiplying the reading from the voltmeter with the reading from the ammeter, since voltage * current = power. The student should keep an eye on this make a reading every second. The student should take a starting reading from the thermometer and simultaneously turn on the circuit and start the stopwatch. The insulating material and lid will ensure no heat escapes, and the electrical heater will convert electrical energy into thermal energy, heating the water. When the thermometer indicates that the water has risen in temperature by ten degrees, the student should stop the stopwatch. The student can then calculate the mean power (sum of (each voltage reading * each current reading)) divided by the number of readings, and then multiply the mean power by the total amount of time the circuit was on to find the amount of energy (in joules) expended/transferred to the water over the course of the experiment. The student can then divide the amount of energy in joules by the mass in grams and the change in temperature (10 degrees) to get a value with unit Joules per kilogram-degree, which will be the specific heat capacity of water. The student should repeat this experiment three times and take the average of the results.
+    b.
+        i.
+            54000/(0.56 * 22) = 4383.11688312
+        ii?
+            Because some energy from the heater will be lost via conduction and radiation to the surroundings
+
+            Because some water will evaporate and escape from the lid, which is not air-tight, carrying away energy
+4.
+    a.
+        16 * 2.5 * 3600 = 144000 J
+    b?
+        A transformer works by generating a fluctuating magnetic field around the primary coil which induces a current in the secondary coil. An AC power supply must be used to make the magnetic field fluctuating, as otherwise the there will be no magnetic flux, and there will not be a current induced in the secondary coil. The iron core is used to make the generated magnetic field stronger and hence improve efficiency. A transformer changes output voltage from the input by having more/less turns on the secondary coil than the first, which increases/decreases output voltage.
+5.
+    a.
+        150 + 275 = 425K
+    b.
+        i.
+            B, D
+        ii.
+            When in a gas state, the particles are arranged sparsely, move quickly and randomly, and have little attraction to each other. When in a solid state, the particles are arranged in a regular structure, do not move much at all, and stick to each other.
+        iii?
+            The energy in the kinetic store of the particles does not change as temperature is the average kinetic energy of the particles and the particles do not decrease in temperature when the sample is changing state.
+6.
+    a.
+        In a closed system, momentum is conserved: total momentum remains constant.
+    b.
+        i.
+            0
+        ii.
+            2.6 * 10^(-8) * 26 * 1000 = 0.000676 kgm/s
+        iii.
+            0.000676kgm/s; rightwards
+        iv.
+            (2.6/1000)/1.2 = 0.00216666666667 ~= 0.0022 ms^-2
+    c.
+        I do not agree with the student's suggestion. While, true, the small spacecraft engine does not provide much acceleration so would not be useful for fast maneuvering, there is little resistance due to friction in space, so the small acceleration, if maintained for a long time, could still cause a great buildup of speed. We can see that the acceleration can be maintained for a long time, because it carries 0.75/(9.9 * 10^-8) = 7575757.5... ~= 7600000 seconds of fuel, so since it can accelerate the craft for a long time, it will be useful.
+7.
+    a?
+        microphone
+    b.
+        i.
+            0.75 of time period = 4 * 0.002s
+            so, 4/0.75 * 0.002 = time period = 0.0106666666667 ~= 0.0107s
+        ii.
+            1/(0.0106666666667) = 93.7499999997 ~= 93.7 Hz.
+    c.
+        i.
+            energy transferred = charge * voltage
+        ii? Is voltage the full distance or the distance from 0?
+        10/sqrt(2) * 6.3 × 10^(−5) = 0.000445477272148  ~= 4.45 * 10^(-4) J
+8.
+    a.
+        3-o-clock position
+    b.
+        (561-550)/550  = x/(3 * 10^8)
+        x = (61/550) * 3* 10^8 = 33272727.2727 ~= 3.33 * 10^7
+        
+
+    
