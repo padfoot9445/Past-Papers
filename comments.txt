@@ -1,16 +1,30 @@
-
-{{c1::reactants - products::how to calculate enthalpy change given reactant and product bond energies?}}
-{{c1::Blue Litmus paper tests for ph (turns red in acid), so does nothing in organic solution but turns red in water solution as there are H+ ions so is acidic, and DOES NOT BLEACH WHITE if chloride ions only but not chlorine gas::How does blue litmus paper function in HCL solution in water (where HCL is ionized) or in organic solution (where HCL is not ionized?)}}
-{{c1::Brown vapour/gas/fumes::What can be observed at the positive electrode in electrolysis of molten lead bromide?}}
-{{c1::Always use graphite even if high temp::What electrodes must be used in high temperatures?}}
-{{c1::When solid the ions are in fixed positions/in a lattice::What must be mentioned when talking about how solid ionic compounds do not have ionis which are free to move?}}
-{{c1::distilled::What water is used to wash the precipitate salt after it is filtered in obtaining a dry sample of precipitate salt from a neutralisation reaction?}}
-{{c1::Esters must be written in pseudo-structural formula; e.g. CH3OOCH or HCOOCH3 instead of  C2H4O2 (and NOT CH3COOH)::How must esters be written?}}
-{{c1::Not enough supply/greater demand for smaller fractions; alkenes are produced to make polymers (e.g. plastics); smaller fractions/alkanes are needed for petrol/"fuel for cars"::Why is cracking done?}}
-{{c1::alumina::How is the catalyst for cracking starting with A... spelt?}}
-{{c1::Fractionating column::What is the equipment used for fractional distillation and how is it spelt?}}
-{{c1::The crude oil vaporizes, NOT evaporates::What happens when crude oil is heated for fractional distillation?}}
-{{c1::Aircraft fuel::What is the use of kerosene?}}
-{{c1::Refinery gases::What is the top fraction of a fractionating column?}}
-{{c1::A more reactive metal is connected to the iron; the more reactive metal will react/corrode instead of iron::How does sacrificial metal work?}}
-{{c1::Because sodium has a larger atomic radius; there is less attraction to the nucleus for the outer electron; so the outer electron is more easily lost::Why is sodium more reactive than lithium?}}
+{{c1::rule base::What are facts in the knowledge base linked to to decide which questions to ask in an expert system?}}
+{{c1::Firmware; bootloader; BIOS; Bootstrap::What is the name of the set of instructions that are provided to the operating systme to allow it to run?}}
+{{c1::memory management; managing what gets allocated where in memory; managing peripherals and drivers; managing the communication between any input and output devices that are connected to the computer; multitasking; managing the process of switching between tasks that are being carried out; platform for running applications; allowing communication between the applicatoins' software and the hardware; system security; proving features such as username and password; user accounts; allowing multiple user accounts to be created on a computer}}
+{{c1::Code editor; that allows hte user to enter and amend code in their program; Run-time environment; that allows a program to be run and see the outputs of their program; Error-diagnostic; to show the programmer where there are errors in the program; Auto-completion; to give the user OPTIONS/SUGGESTIONS of key commands to select; Auto-correction; to correct a command that has a MINOR MISSPELLING; Prettyprint; changes the color of KEY COMMANDS so they are easy to identify}}
+{{c1::More control over manipulating the hardware; faster execution for testing than a high-level language; they can use machine specific instructions (prefer omitting #2)::What are advantages of using assembly language?}}
+{{c1::Computer system that is designed to perform a dedicated/single function; Computer system that contains a microprocessor and dedicated hardware; Computer system that is built into a larger system}}
+{{c1::It can now execute MORE instructions PER SECOND; this will incrase the performance of the CPU::What does increasing clock frequency on a CPU do?}}
+{{c1::data, control, address::What three buses are used in the CPU?}}
+{{c1::CU receives the instruction from the MDR; via the data bus; instruction is SEPARATED into opcode and operand; control unit decodes the instruction; using an instruction set::What happens in the decode stage of FDE?}}
+{{c1::Requires more bandwidth or separate channels; Higher power usage; More chance of data collisions as data sent in both directions at the same time::What are the disadvantages of full-duplex communication?}}
+{{c1::Simultaneous two-way communication; More efficient and faster; No waiting for transmission turns::What are the advantages of full-duplex communication?}}
+{{c1::Cannot send and receive at the same time; Possible delays when switching direction; Lower efficiency than full duplex::What are the disadvantages of half-duplex communication?}}
+{{c1::Allows two-way communication (not simultaneous); More efficient than simplex; Shares a single channel::What are the advantages of half-duplex communication?}}
+{{c1::One-way communication only; No feedback or error correction from receiver; Inefficient for interactive systems::What are the disadvantages of simplex communication?}}
+{{c1::Simple and cost-effective; Easy to implement; No need for complex coordination::What are the advantages of simplex communication?}}
+{{c1::Slower than parallel for short distances; Sends one bit at a time; May require more complex timing mechanisms::What are the disadvantages of serial transmission?}}
+{{c1::Reliable over long distances; Less interference and crosstalk; Cheaper and simpler cabling::What are the advantages of serial transmission?}}
+{{c1::Prone to interference and crosstalk; Limited to short distances; Bulkier and more expensive cabling; DATA may be skewed due to multiple bits at a time; BITS may arrive out of order::What are the disadvantages of parallel transmission?}}
+{{c1::Faster data transfer over short distances; Can send multiple bits simultaneously; Simple implementation for short links::What are the advantages of parallel transmission?}}
+{{c1::it sends the data multiple bits at the same time; so the transmission speed of the data will be fast; data may not need to travel al ong distance; as the devices are all within a single room; it sends data in both directions at the sam eitme; so users on the network can send data to each other with no delay::Why might a company with all its workers on computers in the same room use parallel full duplex transmission?}}
+{{c1::the data packet has three sections; it has a packet header; which contains data such as the destination address; it has a payload; which contains the main data; it has a trailer; which contains data such as the error detection system used::What is the structure of a packet?}}
+{{c1::payload::What is the bit containing the data called in a packet?}}
+{{c1::Slower performance; Mechanical parts (more prone to failure); Noisy; Higher power consumption; Bulkier::What are the disadvantages of HDDs?}}
+{{c1::Cheaper per GB; Very high capacities available; Good for long-term storage::What are the advantages of HDDs?}}
+{{c1::More expensive per GB; Limited write lifespan; Smaller max capacities (generally)::What are the disadvantages of SSDs?}}
+{{c1::Much faster speeds; No moving parts (more durable); Silent operation; Lower power consumption; Compact and lightweight::What are the advantages of SSDs?}}
+{{c1::solid state drive; small/thin in size; so would fit easily into the smartphone device; it is lightweight; so wouldn't make the phone heavy to carry; it has no moving parts; so would be durable/robust; if the phone is dropped the data is less likely to be damaged; it has fast read/write speeds; so it would be quick to load files/software; it runs at a cool temperature; so it wouldn't make the smartphone hot to hold for th euser; it doesn't make a lot of noise; so it wouldn't ruin the user's experience of listening to music/watching videos; it doesn't require much power; so it won't drain the battery; it can have a large storage capacity; so can store files that are multimedia::What secondary storage should be used for smartphones and why?}}
+{{c1::to store data/files PERMANENTLY; otherwise, data/programs would need to be entered every time the phone was turned on; to allow SOFTWARE to be installed into the smartphone; to store user files; for the creation of VIRTUAL MEMORY}}
+{{c1::volatile storage such as RAM or cache::What is Primary Storage?}} {{c2::PERMANENT storage such as HDD::What is secondary storage?}}
+{{c1::Screen; Speaker; LED; Actuator::What are four output devices of a smartphone?}}
