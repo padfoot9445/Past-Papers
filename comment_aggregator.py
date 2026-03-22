@@ -1,4 +1,5 @@
 import argparse
+import os
 from pathlib import Path
 import sys
 
@@ -10,6 +11,7 @@ if __name__ == "__main__":
     parser.add_argument("--create", action="store_true")
     parser.add_argument("-o", "--out", action="store")
     parser.add_argument('--comment-files', nargs='+', required=False, default=None)
+    parser.add_argument("--delete", "-d", action="store_true")
     args = parser.parse_args(sys.argv[1:])
     
     rootdir = Path()
@@ -47,6 +49,8 @@ if __name__ == "__main__":
             with open(f, "r", encoding="UTF8") as r_file:
                 file.write(r_file.read())
                 file.write("\n")
+            if args.delete:
+                os.remove(f)
     if args.all is not True:
         with open(args.prior, "a", encoding="UTF8") as f:
             for file in files:
