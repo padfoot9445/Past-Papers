@@ -1,0 +1,88 @@
+1.
+    a.
+        [{{c1::Instructions/program that is used to operate a computer/hardware::What is software?}}]
+        1
+    b.
+        1
+    c.
+        [{{c1::Operating system/system software::What type of software manages inputs/outputs for the computer?}}]
+2.
+    a.
+        1
+    b.
+        1
+    c.
+        0
+    d.
+        i.
+            [{{c1::reducing the size of a file::What is meant by file compression?}}] 1
+        ii.
+            1
+3.
+    a.
+        i.
+            [{{c1::they are both number systems::What do binary and hex have in common?}}]
+        ii.
+            1 [{{c1::Hex is base-16 whereas binary is base-2; Hexadecimal uses 0 to 9 and A to F while binary only uses 1 and 0::What is the difference between hexadecimal and binary?}}]
+    b.
+        2
+    c.
+        2
+    d.
+        i.
+            2
+        ii.
+            1
+    e.
+        1
+4.
+    a.
+        2
+    b.
+        1
+    c.
+        [{{c1::To STORE the BIOS, to STORE the bootstrap, to help the start-up of the smart-watch/to STORE start-up instructions; to STORE the firmware; for non-volatile storage/to STORE data PERMANENTLY; to STORE DATA/INSTRUCTIONS that SHOULD NOT CHANGE::Why might a smartwatch need ROM?}}]
+        2
+    d.
+        i.
+            [{{c1::A collection of servers; which allows access to data remotely/stores data in a remote location; whereby hardware can be owned/managed by a third party; data storage that is stored/accessed via the internet::What is the meaning of cloud storage?}}] 1
+        ii.
+            0 [{{c1::No need to maintain the hardware, as the third party is responsible for maintaining the hardware/security of the data; resources can be increased/decreased on demand, so no need to worry about running out of storage space, can save cost of PURCHASE of HARDWARE; need less/no secondary storage space ON THE WATCH, watch can remain small in size, costs of watch can be kept lower; Can access the data from OTHER/ANY DEVICES, if the watch breaks/is lost data is still available;::Benefits of cloud storage on a smartwatch}}]
+    e.
+        2 [{{c1::the watch can only perform limited functiosn/tasks, and a general purpose computer performs many/multiple functions, this means that it is an embedded system; you cannot plug in peripherals; you cannot reprogram teh smartwatch/cannot install other software; it would only have a microprocessor::Why isn't a smartwatch a general purpose computer?}}]
+5.
+    a.
+        [{{c1::modulo 11, whereby each digit is multiplied by a weighing factor and the final result is computed mod 11. ::What is a common algorithm for calculating check digit?}}] [{{c1::a check digit is calculated from/using the barcode data;...using an algorithm (example:modulo 11); when the barcode is scanned the check digit is RECALCULATED, using the SAME algorithm; if the CHECK DIGITS do not match an error has occurred when scanning the barcode}}] 4
+    b.
+        i.
+            [{{c1::Bits are sent one at a time; bits are sent down a single wire; data is sent in one direction only::How is data sent using serial simplex transmission?}}] 2
+        ii.
+            [{{c1::Explicitly mention that the advantage of the alternative data transmission systems are not needed, and mention the alternative by name: e.g. "the speed of parallel transmission is not needed"; and also list the advantages of the chosen one and disadvantages of the other ones::What must be done when comparing modes of data transmission?}}] [{{c1::The stock control system may be a long distance away; parallel should not be used in long distance transmission; serial is more RELIABLE for long distance transmission; The data does not need to be sent quicklty, th eincrease spsed of parallel is not needed, as only small amounts of data need to b esent; the BITS are sent/arrived in order, the DATA will not be skenwed, there will be no data collisions; THere will be less inteference/crosstalk, there will be fewer errors in the data; no need for a reply/response from stock-control system, helf-duplex/full-duplex is not needed as only one way transmission needed}}] 3
+        iii.
+            [{{c1::odd/even parity check/parity byte check/parity block check; checksum; echo check; positive/negative ARQ::Ways of checking for error in a data transmission}}] 1
+6.
+    [{{c1::Control unit::Component name}} -- {{c2::sends signals to manage the flow of data through the CPU::Purpose of component}}]
+    [{{c1::program counter::Component name}} -- {{c2::stores the address of the next instruction to be fetched::Purpose of component}}]
+    [{{c1::memory address register::Component name}} -- {{c2::stores the address of the data that is about to  be fetched from RAM into the CPU::Purpose of component}}]
+    [{{c1::Data bus::Component name}} -- {{c2::transmits data between the RAM and the CPU::Purpose of component}}]
+    [{{c1::accumulator::Component name}} -- {{c2::stores the interim RESULT for a calculation::Purpose of component}}]
+    [{{c1::Current Instruction Register::Component name}} -- {{c2::Stores an instruction while it is being decoded::Purpose of component}}]
+    5
+7.
+    a.
+        {{c1::a TEXT-BASED ADDRESS for a WEBSITE/WEB PAGE::What is a URL?}} 1
+    b.
+        {{c1::Protocol; Domain name; File name::Parts of a URL}} 1
+    c.
+        {{c1::Web browser::What is responsible for rendering a served webpage?}} 1
+    d.
+        3
+    e.
+        [The {{c1::web browser}} asks the {{c2::web server}} to identify itself. The {{c3::web server}} sends back its digital certificate. The {{c4::web browser}} authenticates the digital certificate. If it is authentic, {{c5::Encrypted}} data transmission begins.] 4
+8.
+    a.
+        1
+    b.
+        3
+    c.
+        2 [{{c1::It could GATHER data during vacuuming, and adapt its own processes, such as where obstacles are placed inthe room, such as where dirtier areas are, such a s apath through a room, such as the shape of a room, such as the most efficient route to vacuum a room, so it knows areas to avoid/concentrate on/use different cleaning tools::How can a robot vacuum use machine learning?}}]
