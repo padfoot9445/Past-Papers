@@ -106,5 +106,14 @@
         "max_score": 75,
         "percentage": 72,
         "raw_percentage": 0.72
+    },
+    {
+        "name": "Reading",
+        "time": "2026-03-25 23:08:58.303149",
+        "score": 55,
+        "comment_file": "Reading.comment",
+        "max_score": 60,
+        "percentage": 92,
+        "raw_percentage": 0.9166666666666666
     }
 ]
