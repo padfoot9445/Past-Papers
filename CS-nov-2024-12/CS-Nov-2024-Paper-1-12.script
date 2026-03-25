@@ -1,0 +1,105 @@
+1.
+    a?
+        A set of instructions which can be executed by a computer or CPU on request of the user to achieve some goal of that user.
+    b.
+        B
+    c.
+        Driver
+2.
+    a.
+        Bit
+    b.
+        4
+    c.
+        22016 * 10 * 8/1024
+        = 220160 / 128
+        = 110080/64
+        = 55040/32
+        = 27520/16
+        = 13760/8
+        = 6880/4
+        = 1720/2
+        = 860 KiB
+    d.
+        i?
+            Taking a file and reducing its size but in a manner that the original file can be in a sense recovered from the smaller file.
+        ii.
+            So it takes less space when stored so more files can be stored on the same disk.
+3.
+    a.
+        i?
+            Their bases are both powers of 2
+        ii?
+            Hexadecimal is base-16 whereas binary is base-2
+            Hexadecimal uses 16 different digits whereas binary only uses 2
+    b.
+        1111
+        10110100
+        1110011
+    c.
+        E
+        64
+        F8
+    d.
+        i.
+            Every single bit in the binary integer is moved to the left by 1. The first bit is discarded; the last bit is set to zero.
+        ii.
+            This in effect multiplies the number by 2 modulo 2^(the number of bits in the register)
+    e.
+        Two's complement
+4.
+    a.
+        Microphone, Touchscreen
+    b.
+        Screen
+    c?
+        The smartwatch needs ROM to store its bootstrap/BIOS, which must run when the smartwatch is turned on to initialize the operating system which the smartwatch uses so it can function properly. The ROM may also be used to store any program code that the smartwatch uses to perform its functions.
+    d.
+        i.
+            Cloud storage is storage on another computer, or on a server, which is accessed via the internet.
+        ii.
+            Data can be shared with other people more easily, as it simply requires sharing access credentials as the data is stored online anyways
+            Data is generally backed up automatically on cloud storage, so there is much less risk of data loss due to physical damage to storage media.
+    e?
+        Because a general-purpose computer must be able to run arbitrary software and do arbitrary tasks. Time and text messages do not encompass arbitrary software or tasks.
+5.
+    a?
+        The barcode scanning system uses a check digit to check for errors in data on input. This means that the barcode scanning system calculates some value from all the other digits in the barcode, possibly via summing them modulo some number (such as 10), and compares it to the check digit. If this calculated value is not the same as the check digit, then the barcode-scanning system knows that there has been an error. This is because the check digit is calculated in the same way from the same data, so either the initial calculation has gone wrong, or the check-digit has been misread, or one of the other digits has been misread, or the final calculation has gone wrong. This, however, does not account for some errors which may not affect the check digit, such as transposition errors.
+    b.
+        i?
+            Serial simplex data transmission means that the data-line can only transmit data one way, and that bits are sent one at a time.
+            The data is sent bit by bit alongside a clock-signal for synchronisation or else at a pre-arranged frequency. Because it is simplex, there is no risk of crosstalk or data collision. The clock-signal or pre-arranged frequency is used and the voltage in the data line at every clock cycle/at the pre-arranged interval is read and converted into either a 1 or a 0. Since the data is numeric, it can be converted into binary and sent as 1s and 0s.
+        ii.
+            Because there is not much data to be sent, speed is not an issue, so serial data transmission is appropriate.
+            Because there is no foreseeable future where the barcode scanner must receive data or transmissions from the stock control system, there is no need for half-duplex or duplex transmission. Simplex is the most simple and low-cost, so it is the most appropriate.
+        iii?
+            1
+                Echo check
+            2
+                Parity bit
+6?
+    Control Unit
+    Stores a value denoting the location in memory (memory address) of the next instruction to be fetched
+    Memory Address Register
+    Data bus
+    Stores intermediate values in computation, or the results of computations done by the ALU
+    Memory Data Register
+7.
+    a?
+        A URL is a human-rememberable string which is used instead of an IP address to access content on the internet. It is unique to the website or resource, and is stored by DNS servers which facilitate translating it back to an IP address.
+    b?
+        Domain
+        Protocol
+    c.
+        Browser
+    d?
+        Tablet computer ->^{URL} DNS server ->^{IP address} ->  Tablet computer ->^{Request for web page} Web server with that IP address ->^{Web page} Browser on Tablet computer, which displays the web page
+    e?
+        The web browser asks the web server to identify itself. The web server sends back its digital certificate. The hypertext transfer protocol authenticates the digital certificate. If it is authentic, encrypted data transmission begins.
+    8.
+        a.
+            A
+        b.
+            knowledge base, inference engine, rule base
+        c?
+            The robot vacuum could make use of machine learning to learn where obstacles usually are at what time, and how to best avoid those obstacles to best clean the floors. It could also learn how often the floor is most dirty to be the most efficient in how much energy it uses in cleaning.
