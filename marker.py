@@ -88,7 +88,7 @@ if __name__ == "__main__":
 
 
     if arguments.auto:
-        comment_file = pathlib.Path(marking_file).stem + ".comment"
+        comment_file = str(pathlib.Path(marking_file).with_suffix(".comment"))
 
     with open(marking_file, "r", encoding="UTF8") as file:
         score, comments = parse_marking(file.read())
