@@ -124,5 +124,14 @@
         "max_score": 70,
         "percentage": 89,
         "raw_percentage": 0.8857142857142857
+    },
+    {
+        "name": "Paper 1",
+        "time": "2026-04-03 19:34:04.415206",
+        "score": 60,
+        "comment_file": "CS-nov-2024-13\\Paper 1.comment",
+        "max_score": 75,
+        "percentage": 80,
+        "raw_percentage": 0.8
     }
 ]

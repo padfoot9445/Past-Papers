@@ -1,0 +1,80 @@
+1.
+    a.
+        1
+    b.
+        3 [{{c1::RAM, to store data/instruction that is CURRENTLY IN USE, to store software/programs that are CURRENTLY IN USE, for volatile storage/to store data TEMPORARILY, to allow data to be accessed directly by the CPU/Processor::What is the use of RAM?}}] [{{c1::RAM, ROM, CACHE::Three types of primary storage}}]
+    c.
+        i.
+            2
+        ii.
+            3
+    d.
+        4
+    e.
+        [{{c1::Flip and then add::Which order of operations to convert a number into two's complement?}}] 2
+2.
+    a.
+        1
+    b.
+        2
+    c.
+        1 [{{c1::PERMANENTLY::What keyword must be used when talking about lossy compression?}}] [{{c1::Data will be PERMANENTLY removed, and taht could be important/necessary; the report will have text in it and lossy is not suitable for text files, as it will DAMAGE/CORRUPT the file; the report may have images in it and the quality of those will be reduced.}}]
+    d.
+        i.
+            1
+        ii.
+            2
+        iii.
+            [{{c1::Each character requires more storage space::What is a disadvantage of unicode?}}] 0
+    e.
+        i.
+            3
+            [{{c1::Originator's address, destinatio address, packet number::What are three things in the header of a packet?}}]
+        ii.
+            1
+        iii.
+            1
+    f.
+        i.
+            3
+            [{{c1::Positive check is confirm OK; negative check is send on error::Difference between positive and negative check}}]
+        ii.
+            2
+  
+    g.
+        i.
+            1
+        ii.
+            1
+        iii.
+            1
+3.
+    a.
+        2
+    b.
+        2
+4.
+    [{{c1::World wide web}} -- {{c2::The collection of web pages accessed using the internet}}]
+    [{{c1::IP Address}} -- {{c2::The address given to a device when it connects to the internet}}]
+    [{{c1::web browser}}j -- {{c2::Software/application that allows users to view/access web pages by rendering HTML}}]
+    [{{c1::DNS}} -- {{c2::The hardware that satores a database of matching website and IP addresses}}]
+    [{{c1::Proxy server}} -- {{c2::A type of hardware that can be used to prevent a distributed denial of service attack}}]
+    [{{c1::Hacking}} -- {{c2::Gaining UNAUTHORISED access to a computer or system}}]
+    4
+5.
+    a.
+        [{{c1::A system that can perform actions without HUMAN INTERVENTION::What is an automated system?}}] 1
+    b.
+        2 [{{c1::It receives data from a sensor; it ANALYSES the data; it sends SIGNALS to trigger actions based on the data::What does a microprocessor do in an automated system?}}]
+    c.
+        2
+        [{{c1:: It stops the farmer having to handle heavy equipment; It frees the farmer up to do other jobs; It doesn’t need to take breaks // Can work 24/7; It can perform boring repetitive tasks; Can save money on labour costs; May be more accurate at ploughing/planting; May be more efficient than the farmer at ploughing::Why might a farmer prefer to use an automated system to plough his fields?}}]
+    d.
+        3
+6.
+    a.
+        7
+    b.
+        2
+7.
+    0

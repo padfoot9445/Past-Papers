@@ -1,0 +1,100 @@
+1.
+    a.
+        B
+    b.
+        Random Access Memory
+        To temporarily store values which are to be used in the execution of a program, such as the instructions of the program, or other similar data, which do not have to be persisted permanently.
+    c.
+        i.
+            10101111
+        ii.
+            00010101
+            00101101
+            000010010001
+    d.
+        110101111
+    e?
+        -114
+2.
+    a.
+        It reduces the size of the report file
+    b.
+        1.
+            It reduces the time necessary to transmit the report file, as less data will need to be transferred
+        2.
+            It reduces the bandwidth necessary or the internet charges incurred if applicable, as less data will be transferred
+    c?
+        Lossy compression is not suitable because the report file is likely going to be predominantly text, so there is no data there which can be removed without affecting the viewing experience of the employer and the integrity of the report. With lossy compression, data would be lost and be unable to be recovered, so the report wouldn't be able to be read properly.
+    d.
+        i.
+            A Character Set
+        ii.
+            1.
+                More characters supported, so more unique email addresses
+            2.
+                Characters from different languages are supported, so people speaking different languages can be accommodated.
+        iii.
+            Some older computers may not support Unicode, so they will not be able to decipher the email address.
+    e.
+        i? What can be found in each part of a packet?
+            Originator's address, destination address, packet number
+        ii.
+            C
+        iii.
+            Router
+    f.
+        i? Positive vs negative checks
+            When the receiver receives the data, it sends a copy of the data it has received back to the sender. The sender receives this copy. If this copy of the data is different to what the sender sent out, then there has been an error either in the initial transmission or during the transmission of the echo. If there is no error, the sender acknowledges the echo; otherwise, it reports this to the receiver.
+        ii.
+            Because prior to transmission, an algorithm such as SHA-256 is used to calculate a value based on the data. This algorithm always outputs the same value for the same input data. When the data is received, the value is calculated again using the same algorithm. The first calculated value is sent along with the data, so the receiver can compare the two values. If the values differ, then the receiver knows that either the transmitted checksum is wrong, or there is an error in the data. In either case, an error has occured.
+    g.
+        i.
+            To prevent malicious actors from obtaining the contents of the email, which may contain sensitive information.
+        ii.
+            They both use secrets to produce a ciphertext
+        iii.
+            In symmetric encryption, one key is shared between both parties, whereas in asymmetric encryption, each party has their own private key and public key, making four keys in total vs one
+            In symmetric encryption, the same key is used for encrypting and decrypting, whereas in asymmetric encryption, different keys are used for encrypting and decrypting.
+3.
+    a.
+        1.
+            Program Counter
+            Memory Address Register
+    b?
+4.
+    Website
+    IP Address
+    Software which accesses the internet, handling HTTPs and parsing HTML and rendering webpages
+    Domain Name Server
+    Proxy Server
+    Gaining access or control to or over a system which is not intended, illegally
+5.
+    a.
+        An automated system is a system which can run without human intervention
+    b.
+        The microprocessor takes in data input from the sensors and manipulates it in order to send out corrective commands to the plough to maintain a straight line without human intervention.
+    c.
+        1.
+            The farmer does not have to babysit the plough
+        2.
+            Many such ploughs can run, or ploughs can run continuously, allowing for more fields to be prepared for seed-planting in the same time.
+    d.
+        The plough may gather data during its ploughing such as which areas of the field require more ploughing, what sort of tools to plough which part of the field, the most optimal route through the field, the most efficient way to remain upright, what sort of actions to take when in danger of falling over, and when ploughing should happen to be most efficient.
+6.
+    a.
+        Cookies are small text files stored by a web browser. Session cookies are temporary text files that are deleted when the web browser is closed. Persistent cookies are permanent text files that are stored on a user's secondary storage device until they are manually deleted or they expire.
+    b?
+        1.
+            Keeping track of a user's behavior, e.g. in order to serve them targeted advertisements
+        2.
+            Allowing a user to automatically log in to websites between browsing sessions
+        3.
+            Keeping track of session variables like authentication codes to remove the need of multiple authorisation attempts per session
+7.
+    The purpose of the IDE is to allow the programmer to program more efficiently. IDEs offer features such as:
+        - An integrated translator to run and test programs
+        - An error-diagnostic to report errors when those programs are ran
+        - Auto-correct, to automatically correct minor typing mistakes or misinputs
+        - Auto-complete, to offer suggestions or options as to automatically completing variable names
+        - Pretty-print, to highlight key commands to make the code easier to read
+    These features allow the programmer to develop with more confidence and faster, and aid the programmer in that manner.
