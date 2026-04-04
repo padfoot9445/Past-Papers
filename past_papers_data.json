@@ -133,5 +133,14 @@
         "max_score": 75,
         "percentage": 80,
         "raw_percentage": 0.8
+    },
+    {
+        "name": "Reading",
+        "time": "2026-04-03 23:46:15.834582",
+        "score": 52,
+        "comment_file": "Italian-Nov-2021\\Reading.comment",
+        "max_score": 60,
+        "percentage": 87,
+        "raw_percentage": 0.8666666666666667
     }
 ]
