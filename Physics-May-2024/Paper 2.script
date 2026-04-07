@@ -1,0 +1,80 @@
+1?
+    a.
+        Surface Temperature (k)
+        Luminosity class
+    b.
+        Main sequence belt
+    c.
+        C
+    d.
+        D
+2.
+    a.
+        1 3 2
+    b?
+        Control rods absorb neutrons to slow down the chain reaction of fission
+        Moderators slow down neurons to increase the rate at which the chain reaction of fission occurs
+3.
+    a.
+    b.
+4.
+    a?
+
+    b?
+        Electricity is demanded at some rate irrespective of the amount of current in the transmission cables. Call this rate k, measured in Watts.
+
+        Watts = Current * Voltage. But, Voltage = Current * resistance. So, Watts = Current^2 * resistance => k = current^2 * resistance. We can here treat k as constant, so we see that resistance = k/current^2; i.e. resistance is inversely proportional to the square of current. Resistance introduces inefficiencies in transfer as it converts electrical energy to thermal energy. Since a higher current implies lower resistance, because resistance is inefficient, it also follows that a higher current implies a higher efficiency.
+5.
+    a.
+        The force applied on ball A has the same magnitude as the force applied to ball B by newton's third law. However, it will have an opposite direction; here, the force applied to ball B is towards the right but the force applied on ball A is to the left.
+    b.
+        0.018 * 4.9 = 0.0882 kgm/s
+    c.
+        In a closed system, momentum is conserved. The initial total momentum is 0.882kgm/s, as ball B was stationary so it had a momentum of 0. Now, the total momentum can be expressed as 0.265v - 3.5*0.018 = 0.265v - 0.063. However, we know this is equal ot 0.882 as momentum is conserved. So, 0.265v = 0.1512; v = 0.5705... ~= 0.6 as required.
+    d.
+        Total kinetic energy before = 4.9^2 * 0.018 /2 = 0.21609. Total kinetic energy after = (-3.5)^2 * 0.018/2 + (0.571)^2 * 0.018/2 = 0.11025 + 0.0431... = 0.15338 which is not at all close to 0.21609, so the collision was not elastic.
+6.
+    a.
+        Generating electricity via solar power costs little in terms of initial capital. However, it takes a lot of space, is unreliable, is only viable in areas of high solar exposure, only works in the day, and does not work during cloudy days. Solar panels may also require cleaning. In contrast, a geothermal power plant is expensive to install and set up, but provides a steady and reliable stream of power. Both modes of energy production are renewable. 
+    b.
+        i.
+        ii.
+            The amount of light emitted by the lamp, so using the same lightbulb and providing the same amount of power to it.
+        iii.
+            This would not work, because the principle of conservation of energy states that energy can neither be created nor destroyed. However, the solar cell is not 100% efficient, and the wires connecting the cell to the lamp will have a resistance of their own. This means that there is heat energy created. Furthermore, there is light that does not hit the solar cell in the first place, and the light-bulb will likely heat up as well. This must mean then that the amount of energy received by the lamp is lower than the amount of energy which it consumes in order to light up, so this is not sustainable in practice.
+7.
+    a.
+        To minimize the effects of human reaction speed
+    b.
+        i.
+            11.18
+        ii.
+            Student B may have reacted slower than usual when starting the timer.
+        iii.
+            1/4 * (11.8 + 11.76 + 11.75 + 11.72)
+            = 11.7575
+            ~= 11.76
+        iv.
+            200 * 20 / 11.76 = 340.136... ~= 340.14 m/s
+8.
+    a.
+        i.
+            Because the proton has a positive charge and opposite charges attract; there is a strong electrostatic force of attraction between the negatively charged plate and the positively charged proton.
+        ii.
+            1.28 * 10^5/(1.9 * 10^11) = 6.7368...*10^(-7) ~= 7*10^(-7) as required.
+    b.
+        i?
+            Out of the page
+        ii.
+            The proton will move in a smaller arc, as the force it experiences will be greater.
+9.
+    a.
+        Microphone
+    b.
+    c.
+        100 * 4 = 400;
+        800 * 0.4 = 320;
+        200 * 1.2 = 240;
+        so cannot be constants, so cannot be inversely proportional.
+        
+    

@@ -1,0 +1,133 @@
+1.
+    a.
+        i.
+            Infrared
+        ii.
+            Ultraviolet
+    b.
+        i.
+            Heating food
+        ii.
+            In radiotherapy to treat cancer.
+2.
+    a.
+        It can be reset so there is no cost of buying new fuses
+    b.
+        i.
+            Power = Current * Voltage
+        ii.
+            230 * 11 = 2530 W = 2.53 kW
+    c?
+        The heater may initially draw more power than its normal operating current during start-up, which may cause the circuit breaker to trigger and stop the flow of power entirely.
+3.
+    a.
+        i.
+            403 * 1600 / 3600 = 179.1111 ~= 179 m/s
+        ii.
+            The time taken for the vehicle to go from the first to the second marker could be measured, e.g. with a stopwatch, or by filming it using a high-speed camera and counting the number of frames taken and dividing that by the framerate in hertz. The formula speed = distance/time could then be used. Since the distance between the markers is known, and we know the time via measurement, the speed of the vehicle could be obtained.
+    b.
+
+4.
+    a.
+        01101001
+    b? [In addition, flashcards about the star chart diagram thing]
+        Betelgeuse must have a lower surface temperature than the sun, as it is emitting red light which is less energetic. This is because Betelgeuse is further along in its life cycle than the Sun, and is a red giant; whereas the sun is a main sequence star currently.
+    c.
+        i.
+            Because both conduction or convection require a medium through which to happen, and between the sun and the earth there is the vacuum of space, and there is no medium.
+        ii.
+            White, as that reflects all wavelengths of visible light, so is a poor absorber of light, so will reflect the heat instead of absorbing it.
+5.
+    a.
+        The student should first weigh the rocks while they are dry using a balance, and note the weight, which is the same as the mass as the student is on Earth. Then, the student could fill a eureka can with water carefully so that the water is at the edge of the spout or even slightly overflows. Then, the student should tie a string around the rock. This string should be as thin as possible to reduce the impact of the additional volume introduced, and hence reduce the error of the measurement. The student should then place a measuring cylinder which uses units of mL below the spout such that it will collect any further overflow, and then gently lower the rock via the string into the eureka can. This must be done gently to minimize splashing or other undulations which may cause more water to be spilled than the water that is displaced by the rock. The rock will then displace a volume of water equal to its own volume, which will flow into the measuring cylinder, and then the value can be read off. Since 1 mL = 1cm^3, the volume of the rock can be easily obtained by using the formula volume (mL) = volume (cm^3). The density can be calculated as thus: density(g/cm^3) = mass(g)/volume(cm^3).
+    b.
+        i.
+            density = mass/volume
+        ii.
+            Density of rock A: 15/6.3 = 2.380...~= 2.38 g/cm^3
+            Density of rock B: 13/6.1 = 2.1311...~= 2.13 g/cm^3
+            Density of rock C: 2.13333 ~= 2.13 g/cm^3
+            Disregarding impurities, two objects made of the same material will have the same density. Rocks B and C have approximately the same density (the slight variation can be explained by inaccurate measurement or by impurities in the rock); however, rock A is clearly more dense than both of them. This suggests that rock A is made of a different material than the others.
+6.
+    a.
+        i.
+            x, y (30, 20)?
+        ii.
+            sin(incidence angle)/sin(angle of refraction) = refractive index
+        iii.
+
+    b.
+        i.
+        ii?
+            Since the refractive index decreases, the angle of refraction here also decreases, so F would move further away from the block of glass.
+7.
+    a.
+
+    b.
+        i.
+        ii.
+            2.3 mA; 4.2V; 4.2/2.3 = 1.826...~=1.83 ohms
+        iii.
+            D
+        iv?
+            The component could not be a filament lamp, as here current is linearly correlated to voltage so resistance remains roughly constant, but in a filament lamp, as the filament heats up, resistance increases, which contradicts the constant-resistance result of the investigation. Also, even if the characteristics matched, there is no good way to tell if it is specifically a filament lamp or whether it is another component mimicking its characteristics.
+8.
+    a.
+        i.
+            B
+        ii.
+            Half life is the length of time required until the radioactivity and mass of iodine-131 in a sample of iodine-131, decreases by half.
+        iii.
+            (8,8000); (16, 4000); (24, 2000)
+        iv.
+            f(x)=16000/2^(n/8)
+            8log_2(5000 * 16000) = n
+            13.5
+    b.
+        i.
+            Geiger-Muller tube
+        ii.
+            Because beta radiation is more likely to be blocked by the flesh and skin of the patient, as it is less penetrating.
+    c.
+        It is likely to be safer as it has a lower half-life and only emits gamma radiation. Gamma radiation is not ionizing, whereas beta radiation, which iodine emits, is ionizing; ionizing radiation has the potential to damage cells and cause cancer, so therefore iodine is less safe as it emits iodine radiation. Iodine has a half-life of 8 days whereas technecium has a half life of only six hours; this means that for any given amount of radioactivity required at the time of administering the testing, the patient will be exposed to less radioactivity and for a lesser time, as shorter half life means faster decay. This also means the radioactive substance will disappear from their body sooner. So, the patient is exposed to a lower dose of radiation with technecium, so it is safer.
+9.
+    a.
+        i.
+            Elastic Potential Energy
+        ii.
+            Mechanical, via application of a force
+        iii.
+            Chemical energy from the student
+    b.
+        i.
+            The graph does not show a linear correlation between force and extension.
+        ii?
+            The rubber-band returns to the same extension when it is fully unloaded, so it must be the case that no plastic deformation occurred, so the rubber band must be elastic.
+    c.
+        i.
+            13^2 = 0^2 - 2(-10)s.
+            s = 8.45 ~= 8.5 meters
+        ii? [What is the reactive force?]
+            As the rubber band reaches its maximum height, its weight exerts a downwards force. This causes the band to accelerate downwards. As the band moves through the air as it falls, air particles rub against or collide with the band, causing drag, an upwards force which resists the downwards force and acceleration due to its weight. Since the band does not reach terminal velocity, however, this drag-force is always lower than the force of its weight. Since the forces on the rubber band are not balanced, the rubber band increases in speed downwards as it falls. As the rubber band hits the ground, the ground exerts a reaction force against the rubber band, stopping it from going through the ground.
+10.
+    a.
+        The wires in the coil move and cut perpendicularly through the field lines of the magnet, which induces a voltage in the coil. Since each half of the coil is moving in an opposite direction, voltage and therefore flow of current are induced in opposite directions physically (but which is the same direction along the wire). This causesa the ammeter to read a small current.
+    b.
+        i.
+            There is a diode in the circuit as alternating current produces a current which continually changes direction, and to charge a battery direct current is needed, which always flows in one direction. The diode allows flow of current only in one direction and disallows flow in the reverse direction, and hence creates a current which does not continually change direction; i.e. a DC current.
+        ii.
+            The coil will cut through the field lines of the magnets at a greater speed, so a higher voltage and current will be induced, so the current in the battery will increase.
+    c.
+        14000/8400/7.2 = 0.2314... ~= 0.231A
+11.
+    a?
+        The motion of gas molecules is random, so at any given moment roughly the same amount of gas particles proportional to the area of the wall are colliding with each wall at roughly the same average and total speed. Since mass is (roughly) equal, and momentum is roughly equal, we know the forces exerted on each wall is roughly equal, proportionally, and so therefore pressure is constant.
+    b.
+        current volume = 130/8.4*5 = 77.3809...; pressure is inversely proportional to volume; ratio of initial to current volume = 130/(130/8.4*5) = 1.68; so ratio of current pressure to initial pressure must be 1.68, so current pressure must be 1.68 * 100 = 168 kPa.
+12.
+    a.
+        1800/16% = 11250 is the total energy;
+        11250 * (1-16%) = 9450J wasted.
+    b.
+        Insulating material such as styrofoam could be wrapped around the beaker to prevent loss of heat via conduction to the beaker and from the beaker to whatever is holding the beaker, and the inside of that material could be painted silver to prevent loss of heat via radiation; A lid with a suitable hole for the boiling tube (made again with styrofoam to fit with an airtight seal, or as close to as possible): this prevents loss of heat via convection. Preventing loss of heat to the environment makes it more efficient as now the only place for the heat to go is into the boiling tube.
+    
