@@ -1,0 +1,91 @@
+1.
+    a.
+        A
+    b.
+        C
+    c.
+        Control Unit
+    d?
+        The CPU executes 2.4 billion (2400000000) instructions every second
+    e.
+        i.
+            The instruction is loaded into the MDR from RAM (main memory), during the fetch part of the cycle, and it is sent via the data bus to the Current Instruction Register in the Control Unit.
+        ii.
+            Program Counter
+            Accumulator
+            Memory Address Register
+2.
+    a.
+        17.70
+    b.
+        00001110
+        01100010
+    c.
+        A03D
+    d.
+        Because computers and microprocessors can only process data which is in binary.
+    e.
+        The microprocessor analyses the data which has been taken in by the sensor at the barrier, and then sends signals to control whether or not the barrier is raised. It may validate the ticket number e.g. by computing a check digit or checksum to ensure there has been no mis-read by the scanner or to defeat trivial attempts at falsification. It will then likely compare the ticket number with a list of valid ticket numbers which the payment-machine has issued.
+3?
+    Hardware
+    Application software
+    Operating System
+    Firmware
+4.
+    a.
+        SFD SHD
+    b.
+        Every eight bits, or at an other predefined interval, the data sent down the wire is summed modulo 2. This data includes a parity bit. If the result of this sum is 0 (so the sum of the data is even), then an error has occurred. This is because the parity bit is chosen in light of the rest of the data such that the result of this sum is 1 (so the sum is odd). If the result of the sum is not odd, then an error has occurred either in the transmission of the data or in the computation of the initial parity bit value or in the computation of the final sum of the data.
+    c.
+        Echo Check
+5.
+    a?
+        A sample of the sound is taken at some specified frequency, known as the sample rate. This means that every 1/frequency, a sample of the sound (voltage/amperage from the microphone etc) is taken and stored in a file. This is an analogue value, however, so it is condensed into a certain amount of bits, known as the sample resolution. This allows for a file of size sample resolution * frequency * length of sound to be stored; the file contains frequency * length of sound samples or numbers represented in binary which represent the state of the microphone at the time 1/frequency after the previous sample, or the start of the recording.
+    b.
+        1.
+            Increasing the sample rate
+        2.
+            Increasing the sample resolution
+    c.
+        Because in lossy compression data is permanently and irrevocably removed, which will reduce the quality of the sound file. The musician likely wants to preserve the quality of the sound file for the purposes of redistribution or just because most people would like a full quality copy.
+    d?
+        ASCII uses only seven bits and encodes primarily english characters. Unicode can encode much more characters including from non-western langauges, emojis etc
+        Unicode uses more bits. UTF-8 uses eight bits per ASCII (and some latin) character(s), and otherwise may use more bits via the use of control characters in order to be able to represent characters
+6?
+    Server attempts to make connection with PC -> Goes through firewall -> Firewall examines request/packet based on policies such as: origin, content -> Firewall allows the packet through, or sends it back to the server with an error; Same for app
+7.
+    Header, destination address, routers, last
+8.
+    a.
+        1.
+            Has a moving platter on which data is stored by altering the electromagnetic state of small sections
+        2.
+            Can have very high capacities at a cheap price
+    b.
+        1.
+            Has no moving parts
+        2.
+            Lower power draw
+        3.
+            Has a limited amount of write cycles
+    c.
+        Hard Disk Drive
+        Solid State Drive
+        CD-ROM
+9.
+    a.
+        Operating System
+    b?
+        When a key is pressed on a keyboard, a signal is sent from the keyboard to the processor. This causes the processor to stop whatever it is executing and begin running operating system code, which uses drivers to handle the keypress. After the keypress is handled, the previous state of the previous process is restored, and execution continues.
+    c.
+        i.
+            1.
+                Thermal throttling
+            2.
+                Power off
+        ii.
+            1.
+                Out of bounds memory access
+            2.
+                Out of memory error will trigger a software interrupt
+        

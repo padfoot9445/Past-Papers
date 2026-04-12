@@ -1,0 +1,101 @@
+1.
+    a.
+        A
+    b?
+        Adware
+    c.
+        Antivirus
+2.
+    a.
+        227
+    b.
+        E3
+    c.
+        10001100
+    d.
+        99 = 01100011
+        flip: 10011100
+        add 1:10011101
+    e.
+        1 0010 1111
+3.
+    a.
+        i.
+            The clock speed is the number of instructions executed per second
+        ii.
+            3 > 2, so higher clock speed, so more instructions executed per second, so greater preformance
+    b?
+        When the instruction is being fetched, the value from the Program Counter is loaded into the MAR, in order to induce the instruction at the location referenced by both the PC and the MAR being transferred to the MDR.
+    c.
+        Instruction Set
+4.
+    a.
+        1.
+            Low cost and power draw
+        2.
+            Rugged OS
+    b.
+        Freezer, Vending machine, security light system
+5.
+    a.
+        Higher quality; sound file will be more truthful and accurate to the original performance
+    b.
+        Need more space to store the sound file
+    c.
+        How many bits are used to store each sound-sample; this increases the quality of the final file but also increases the size if this is increased.
+    d.
+        Lossless
+6.
+    Serial simplex
+    Parallel Half-duplex
+    Serial duplex
+    parallel simplex
+7.
+    a.
+        1.
+            Camera
+        2.
+            Barcode scanner
+    b.
+        A laser sensor can be used. The microcontroller continuously checks a laser-receiver to see if it is receiving a laser-light at the appropriate frequency. There is a laser-emitter positioned such that it shines a beam of light into this receiver across the open doorway. The microcontroller can then ascertain that there is no one in the doorway, as if there is, then no laser is detected as the person will block the laser. If the microcontroller detects this, it can then send a signal to the actuators in the door to close it. Otherwise, it can emit a warning via speakers or otherwise send a signal notifying the driver that the doorway is blocked.
+8.
+    a.
+        Sender ->^{stream of packets, some containing private data like password or address} Router ->^{Some packets containing secret data, like a password} Router controlled by a malicious actor, where the data in the packet is stored and read if not encrypted, or stored for use later when exploits have been found/computing power ->^{Forwards data/packets as normal} Receiver.
+
+    b.
+        Encryption, as it will prevent the malicious actor making use of the intercepted data.
+9.
+    World Wide Web
+    Cookie
+    A human-memorizable string which maps to an IP address which uniquely identifies a website or server
+    Hardware which services network requests, e.g. returning to the user a website
+    HTML
+    HTTP
+10.
+    a.
+        It can adapt its stored processes and rules using new gathered data
+    b.
+        An expert system asks the user questions, and combines this with knowledge stored in its knowledge base and rules stored in its rule base, and uses an inference engine on the aforementioned to perform an expert task, such as assisting in medical diagnosis.
+11.
+    a?
+        The rate of flow of some fluid.
+    b.
+        An automated system eliminates the variable of human error, so products are more consistent in (high) quality.
+    c.
+        There is an initial setup cost, which may be expensive.
+12.
+    a?
+        1.
+            Digital currencies exist solely online; there is no physical currency or authority responsible for it
+        2.
+            Digital currency transactions can often be made anonymously
+    b.
+        Blockchain
+13.
+    a.
+        i.
+            C
+        ii.
+            Volatile; i.e. the data stored there can only be stored temporarily and will disappear once the computer is powered off
+    b.
+        RAM, HDD, pages, RAM, HDD

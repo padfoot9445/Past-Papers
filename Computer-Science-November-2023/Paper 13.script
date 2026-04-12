@@ -1,0 +1,110 @@
+1.
+    a.
+        1.
+            Microphone
+        2.
+            Camera
+    b.
+        Speaker
+    c.
+        i.
+            8
+        ii.
+            1024
+    d.
+        To:
+        - Manage any peripherals attached to the phone
+        - Provide a platform for apps or software installed on the phone to run
+        - Provide for multitasking
+        - Handle interrupts
+        - Manage the allocation of memory and where memory is allocated; preventing processing from accessing other processes' memory etc
+        - Managing the file-system of the phone
+        - Providing a GUI for the phone
+2.
+    a.
+        A binary number system is a number system which only uses the digits 1 and 0
+    b.
+        00001110
+        00111011
+        11101010
+    c.
+        09
+        1A
+        41
+    d.
+        123 in binary = 01111011
+        123 < 128; 123 - 64 = 59; 59 - 32 = 27; 27 - 16 = 11; 11 - 8 = 3; 3 < 4; 3 - 2 = 1; 1 - 1 = 0
+        It is not negative so no flip/add one needed
+    e.
+        10101011
+3.
+    a.
+        ACC, CU, PC
+    b.
+        Allow regularly used data normally stored in RAM to be stored in cache and subsequently accessed faster to improve the performance of the CPU
+    c.
+        clock
+    d.
+        Arithmetic and Logic Unit (ALU)
+4.
+    a.
+        To render from webservers so the user can browse the associated website
+    b.
+        Cookies
+    c.
+        Bookmarks
+    d?
+        The SSL protocol requests a certificate from the web server. It validates this certificate by comparing its values against known values, or values supplied by a trusted authenticator. Then, it performs a key-exchange, and then from then on communicates using encryption so that data cannot be intercepted usefully.
+5.
+    a?
+        A power-outage may cause some packets to not reach their intended destination
+    b.
+        C
+    c.
+        Positive acknowledgement means the receiver of the data must acknowledge (send a signal back to the sender) successful receipt of the data. If there is an error or the data is not received entirely, this is not sent. The sender waits for a predetermined amount of time for this acknowledgement to be received. If it does not receive it in this time, it sends the data again.
+6.
+    a.
+        B
+    b.
+        There is no need to purchase physical hardware, saving on upfront cost
+        The data can be accessed from any location, simplifying the process of ensuring everyone has the same data
+    c.
+        They cannot access the data without internet, which may be frustrating
+7.
+    a.
+        How many pixels there are in the image
+    b.
+        How many bits are used to store each pixel, which determines how many unique colors there can be.
+    c.
+        More colors can be stored, so more realistic and high-quality image
+    d.
+        lossy compression
+    e.
+        Reduce the bandwidth and amount of time required to transmit the image
+        Reduce the cost of transmitting the image if mobile data or another metered network is used.
+8.
+    Inbound packet -> Router decides how best to send it to its destination via packet-switching -> Some packets Other router #1
+                                                                                                 -> Other packets other router #2
+9.
+    a?
+        HDD
+        SSD
+        HDD
+        CD/optical media
+        HDD
+    b.
+        1.
+            Primary storage is volatile; it only stores data temporarily while secondary storage stores data permanently
+        2.
+            Primary storage is faster to read from than secondary storage
+10.
+    a.
+        knowledge base
+        inference engine
+        rule base
+        knowledge base
+        interface
+
+    b.
+        This means the expert system can gather information, such as by asking questions in its question base or by using a LLM to generate questions and interpret answers, and use this gathered information to update or improve its stored rules and processes. For instance, it can update the facts stored in its knowledge base, or derive new rules based on user-supplied data and information.
+    
