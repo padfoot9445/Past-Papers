@@ -151,5 +151,14 @@
         "max_score": 70,
         "percentage": 74,
         "raw_percentage": 0.7428571428571429
+    },
+    {
+        "name": "4ch1-2c-que-june-2022",
+        "time": "2026-05-28 15:32:12.511700",
+        "score": 57,
+        "comment_file": "Chemistry-P2-June-2022\\4ch1-2c-que-june-2022.comment",
+        "max_score": 70,
+        "percentage": 81,
+        "raw_percentage": 0.8142857142857143
     }
 ]
