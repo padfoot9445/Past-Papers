@@ -160,5 +160,14 @@
         "max_score": 70,
         "percentage": 81,
         "raw_percentage": 0.8142857142857143
+    },
+    {
+        "name": "4bi1-2br-que-20240702",
+        "time": "2026-05-28 19:12:18.580168",
+        "score": 60,
+        "comment_file": "Bio-June-2024-2R\\4bi1-2br-que-20240702.comment",
+        "max_score": 70,
+        "percentage": 86,
+        "raw_percentage": 0.8571428571428571
     }
 ]
