@@ -1,0 +1,143 @@
+1.
+    a.
+        110010
+    b.
+        i.
+            Domestic cooking, microwave meals
+            Internal heating and damage
+        ii.
+            Radiotherapy
+            May cause cancer
+2.
+    a.
+        C
+    b.
+        D
+    c.
+        i.
+            orbital distance = (2 * pi * 6.8 * 10^3)
+            (2 * pi * 6.8 * 10^3)/(93*60)
+            = 7.65692833133
+            ~= 7.66 km/s
+        ii.
+            24 * 60 / 93 = 15.4838709677 ~= 15
+3.
+    a.
+        i.
+            Gravitational potential energy = mass * g * height
+        ii.
+            3.2 = 0.4 * 10 * height
+            height = 3.2/(0.4)/10
+            = 0.8m
+        iii.
+            3.2
+    b.
+         | force of gravity
+        \ /
+    c.
+        i? [is efficiency in percent or decimal?]
+            3.2/11 = 0.290909090909 = 29.0909090909% ~= 29.1%
+        ii.
+            Because as the motor lifts the load, friction in its bearings etc generates heat. By the law of entropy, this heat energy must be dissipated, so it must dissipate into the thermal store of the surroundings as the load is lifted. As the motor lifts the load, sound may also be generated. Sound waves move out from the motor and hit objects in the surroundings, which absorb and eventually convert the sound into thermal energy. In general, waste energy in the form of radiation generally gets converted into thermal energy, which is dissipated into the thermal store of the surroundings.
+        iii.
+            divert at y = bottom of input energy + 18.5; x = input energy vert + 15; rest of arrow kept same thickness and to the right, labelled "useful input energy (transferred into gravitational potential of load)"
+4.
+    a.
+        B
+    b.
+        three lines top and bottom going N-S, three lines going off to the left; three lines coming into the right
+    c.
+        Because steel is cheap and magnetically hard, so will retain its magnetic field.
+    d.
+        i.
+            Left
+        ii.
+            Weaken the magnetic field (e.g. by moving the two poles further apart)
+            Reducing the current flowing through the wire
+5.
+    Since the person driving the car is travelling at the same speed as the car, that person will hear the same frequency as if the car was stationary.
+
+    However, the person at the side of the road experiences the doppler effect. As the car and horn travels towards the person at the side of the road, the distance between wave-fronts compresses, as the horn is moving towards the person. This means the wavelength of the sound produced by the horn reduces. Since the speed of sound stays constant, and frequency = speed of sound/wavelength, a reduction in wavelength implies an increase in frequency, so as the car approaches the person, the frequency and hence pitch of the sound heard by the person at the side of the road is higher than if the car was stationary. In contrast, however, as the car moves away from the person at the side of the road, the distance between wave-fronts increases, so wavelength increases, meaning (in the same manner) that frequency and hence pitch decreases and is lower.
+6.
+    a.
+        variable resistor in series with battery
+        60 ohm resistor and connecting wire "short circuit" in parallel
+        ammeter in series with only 60 ohm resistor
+        voltmeter in parallel with only 60 ohm resistor
+    b.
+        Using the above-drawn circuit, the student should vary the resistance in the variable resistor, which will change the reading of voltage across the 60 ohm resistor and current in the the ammeter. The student should take care to vary the resistance s.t. the changes in voltage are in sensible increments and in small steps (at least 10 steps across the range of the variable resistor), and with each setting record the current and voltage across the 60 ohm resistor. This can then be plot on a graph to visualize the relationship between the current in and voltage across the resistor.
+    c.
+        i?
+            straight line, positive gradient, goes through the axis; passes through (6, 0.1) and (12, 0.2)
+        ii.
+            The graph for a 120 ohm resistor will have a lower gradient (keeping voltage on the x-axis); that is to say, at the same current, the graph will read a higher voltage, namely double the voltage. This is because if V1 = 60I (from V = IR), and V2 = 120I, where the two current-values are the same, then V2/V1 = (120I)/(60I) = 2, so voltage will be always twice that of the 60 ohm resistor.
+7.
+    a.
+        i.
+            Becquerel
+        ii.
+            Activity in Bq
+            broken line graph
+            (0, 800); (6.7, 400); (13.4, 200)
+        iii.
+            91, -1, 0
+    b.
+        i.
+            A
+        ii.
+            The radiation counter should be set up and allowed to record for one minute with no radiation-source. The count recorded can be taken as the baseline value for background radiation and subtracted from the final counts of every material-type (and no-material).
+        iii.
+            The experiment could be conducted for two minutes instead of one to make the effects of chance less prominent (as decay is random and cannot be predicted), or repeated three times.
+        iv.
+            Likely alpha radiation, as the count was significantly reduced by paper, which can only block alpha radiation. If it was beta or gamma radiation there would have been little or no change to the count when paper was inserted between the source and detector.
+8.
+    a.
+        i.
+            14.6 - 11.5 = 3.1cm
+        ii.
+            4
+    b.
+        i.
+            The gradient of a distance-time graph indicates velocity. The gradient here is clearly not constant, so it must be that the velocity changes as time changes. A change in velocity with respect to time is acceleration, so it must be that the amsses accelerate as they vibrate.
+        ii.
+            peaks and troughs
+9.
+    a.
+        i.
+            F = ma; 41000 = 830a; a = 41000/830 = 49.3975903614 ~= 50
+        ii.
+            26^2 = 72^2 + (-50) * 2 * s
+            s = (26^2 - 72^2)/(-50 * 2)
+            = 45.08m
+            ~= 45.1m
+    b.
+        Energy must always be conserved. Kinetic energy is 1/2 * mass * velocity^2. When the car slows down, velocity decreases, since mass is constant. This would lower the total energy of the car/system, so therefore energy must increase in some other place. Since energy is proportional to the square of velocity, there is a lot of energy which needs to be taken away from the kinetic store and put into another store. The main store is thermal, of the brakes. Hence, the brakes must get very hot, since there is a lot of kinetic energy that needs to be converted into thermal energy.
+    c.
+        Insulators do not conduct heat well. Several layers of insulating material may mean that there is less contact between the layers, so less heat transfer by conduction occurs; in general, heat is conducted at a much slower rate from the tyres to the mechanic's hands, meaning that the mechanic must touch the tyres for a much longer time to burn their hands as opposed to if there was no insulationl
+10.
+    a.
+        i.
+            pressure difference = height * density * g
+        ii.
+            100 * 1000 + 35 * 1000 * 10 = 350000 + 100000 = 450000 Pa = 450 kPa
+    b.
+        i.
+            Pressure = force/area
+        ii.
+            430/(260 * 1000) = 0.00165384615385 ~= 0.00165m = 0.165cm = 1.65mm
+    c.
+        The dam would need to withstand a higher pressure. If the dam is a gravity dam, as it appears to be, then more mass must be added to the dam. Possibly, the gradient of the slope at the back of the dam could also be reduced (by adding material) so that the dam is less likely to topple.
+11.
+    a.
+        2.66 * 4000^2 = 42560000
+        1.7 * 5000^2 = 42500000
+        1.18 * 6000^2 = 42480000
+        0.87 * 7000^2 = 42630000
+        0.67 * 8000^2 = 42880000
+        0.53 * 9000^2 = 42930000
+
+        so all values are approximately 40000000, or 42500000 +- 1000000; this can likely be explained by rounding as the gravitational field strength is only given to 3 s.f.
+    b.
+        3410^2 * gravitational field strength = 42500000
+        so ans = 42500000/(3410^2) = 3.65493932801 ~= 3.65
+        

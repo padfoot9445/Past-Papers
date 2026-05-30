@@ -1,0 +1,88 @@
+1.
+    a.
+        43251
+    b.
+        i.
+            A scalar quantity has only magnitude; a vector quantity has both magnitude and direction
+        ii.
+            mass
+2.
+    a.
+        Chemical
+    b.
+        Burning natural gas is power dense; it can provide energy local to the site of usage so there is no loss from transmission (e.g. in portable stoves or taxis). In addition, burning natural gas can be done in any season at any point in time, and can easily adapt to demand. In contrast, energy generated from the movement of water waves may fluctuate with weather or with season, so power storage may be required, and expensive equipment must be used to extract power from the movement of water waves which must be installed in the sea, which also adds to maintenance costs and to cost of installation. In contrast, the equipment needed to harness power of natural gas locally (in portable stoves or taxis) may not be very expensive.
+
+        However, burning natural gas is not renewable, whereas harnessing the movement of water waves is renewable. In addition, burning natural gas releases greenhouse gases such as carbon dioxide, which contribute to global warming, whereas harnessing the movement of water waves does not. Burning natural gas may also release smog etc which may cause pollution, which harnessing the movement of water waves does not cause. However, structures in the sea which use the movement of water waves to generate electricity may cause damage to aquatic ecosystems as they may interrupt the movement of aquatic organisms such as fish or the communication of whales as they may cause noise pollution underwater.
+3.
+    a?
+        Since the metal parts of the car are earthed, and since metal is a conductor, any charge built up due to the rubbing between the sponge pad, which is an insulator, and the car is conducted away and into ground. In contrast, when rubbing the plastic parts, since the plastic is an insulator, charge can freely build up without being conducted away. 
+    b.
+        i.
+            5/1000 = 6000 * charge
+            charge = 5/1000/6000
+            = 8.3333333333 * 10^{-7}
+            ~= 8.33 * 10^(-7) C
+            (= 833 nC)
+        ii.
+            Suspend a plastic rod on a piece of string. Rub the rod in the same direction vigorously and repeatedly with a plastic cloth. Then, bring the sponge pad slowly close to the side of one end of the rod. If the rod moves as a result of proximity to (but not contact with) the sponge pad, then the sponge pad must be charged, as the rod is charged and the movement could only have been a result (ignoring the effects of air, which may be mitigated by only slowly bringing the sponge pad to the rod) of electrostatic forces as a result of the charge.
+4.
+    a.
+        i.
+            momentum = mass * velocity
+        ii.
+            1100/14 = 78.5714285714 ~= 80
+    b.
+        1100/15 = 73.3333333333 ~= 73s
+    c.
+        An air-bag increases the amount of time that force is applied to reduce the momentum to zero. Since the initial momentum remains constant with or without an air-bag, and since momentum = force * time, increasing times implies force is decreased, so the average force experienced by the dummy decreases as a result of the air bag.
+5.
+    a.
+        Specific Heat Capacity is the amount of energy in joules required to raise the temperature of one gram of some substance by one degree celsius.
+    b.
+        i.
+            3500 = 58 * x * (37-21)
+            x = 3500/58/16
+            = 3.77155172414
+            ~= 4
+        ii.
+            Energy is lost from the water bath to the surroundings via evaporation etc, which must be replenished in addition to the energy transferred from the water bath to the stearic acid, so in fact less energy is transferred to the stearic acid than 3500 J, so the SHC of stearic acid is lower than measured, which lines up with the fact that 2.3 < 4.
+6.
+    a.
+        Because there is a current moving from left to right in the copper wire, which induces a magnetic field.
+    b.
+        i.
+            Wear safety goggles and put a soft mat under the load so that the load is less likely to fracture when dropped and if it does fracture or splinter it does not damage the student's eyes.
+        ii.
+            (1.79 + 1.84 + 1.87)/3 = 1.83333333333 ~= 1.83
+        iii.
+            .5 every two big squares vert scale, label vert "mean current at which the load falls (A)"
+        iv.
+            one straight line
+        v.
+            This is in-line with the observed relationship, which suggests that the current at which some mass drops grows linearly with the mass (+ some constant); fitting in a primitive manner a line of best fit as follows:
+             since the mean gradient (denoting the current means as I_{n}, i.e. I_{1} = 0.30, I_{2} = 0.58..., this is calculated by (1/5)* sum from n = 1 to 5 of ((I_{n + 1} - I_{n})/100)) = 0.00306, and 0.00306 * (1000 - 100) + 0.3 = 3.054 ~= 3.
+            suggests that the student's prediction could well be right.
+            However, 1000g is far outside the range of collected data, so it is not certain if this relationship will still hold up there.
+7.
+    a.
+        011110
+    b.
+        larger wavelength, smaller amplitude, same 0
+    c.
+        i.
+            0.606 * (46 + 273) + 166 = 359.314 ~= 359.31
+        ii.
+            359.314/15000 = 0.0239542666667 ~= 0.0240m
+8.
+    a.
+        i.
+            It could be possible if star C is further away from Earth than star A, since apparent luminosity decreases the further away from the source the observer is.
+        ii?
+            Star D is in the supernova stage of its evolution, since it has a much higher mass than our sun (17.1 times), which allows it to go supernova in the first place, but also because it has a very low absolute magnitude, which indicates that it is very bright, which is a symptom of a supernova as stars release a lot of energy and are very bright in the supernova stage.
+    b.
+        A main sequence star evolves into a supernova when it is more massive than our sun. When such a star reaches the end of main sequence life, it becomes a red supergiant. Then, as it runs even more out of fuel, the star is no longer able to provide enough outward pressure to maintain its size and resist gravity, causing the star to collapse, which triggers the fusion of heavier elements, which causes an explosion, supernova, ejecting much of the matter of the star. Afterwards, the star can become a neutron star or a black hole.
+    c.
+        i.
+            ((7.78 * (10^{(-7)}) - 7.774 * (10^{(-7)})))/(7.78 * (10^{(-7)})) * 3 * 10^8 = 231362.467866 m/s ~= 231000 m/s = 2.31 * 10^5 m/s
+        ii.
+            Red-shifted light detected from supernovas in nearby galaxies having shorter wavelengths than the red-shifted light detected from supernovas in galaxies further away suggests that the galaxies further away are travelling at a higher speed, as velocity of galaxy = change in wavelength/reference velocity * speed of light; reference velocity and speed of light can be treated as constant, so the velocity of the galaxy must be higher if the change in wavelength is higher, and since red shift lengthens the wavelength, the fact that further galaxies have longer wavelengths compared to shorter wavelengths in closer galaxies implies further galaxies are faster than nearer galaxies. This supports the big bang theory, as if all matter and galaxies began at the same point, it would be necessary that matter would arrange itself in a manner that matter close by would have similar velocities; i.e. that, from earth's perspective, the difference in velocity between it and closer matter/galaxies would be lower than the difference in velocity between it and further matter/galaxies, which is what was shown before (further galaxies have a higher relative velocity than closer galaxies), so the big bang theory is supported.
