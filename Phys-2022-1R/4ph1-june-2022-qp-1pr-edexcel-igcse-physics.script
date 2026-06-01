@@ -1,0 +1,121 @@
+1.
+    a.
+        D
+    b.
+        D
+    c.
+        B
+    d.
+        Because the moon has less mass than the Earth.
+2.
+    a.
+        53214
+    b.
+        Skin Burns
+    c.
+        Wear long sleeved and dark clothing
+3.
+    a.
+        i.
+            Voltmeter in parallel with only component x
+        ii.
+            light-dependent resistor
+    b.
+        i.
+            1700 Ohm, draw dotted lines
+        ii.
+            0.0018 * 1700 = 3.06
+        iii.
+            When component X is covered with a dark sheet of paper, light intensity decreases, so resistance increases, so the voltage across component X increases. Since total voltage of the circuit must be constant, that implies voltage across the lamp decreases; since V=IR and the total resistance of the circuit increases, and total voltage must stay the same, the current must decrease, and so less current flows through the lamp, and so the brightness decreases.
+4.
+    a.
+        0 N
+    b.
+        i.
+            pressure difference = height * density * g
+        ii.
+            0.041 * 1000 * 10 = 410 ~= 400
+        iii.
+            pressure = force/area
+        iv.
+            410 * 0.0017 = 0.697 N
+        v.
+            Because there is an upwards force of 0.697 newtons, which is currently being counteracted by force X, but when force X is removed there will be an imbalanced upwards force, which will cause acceleration in the same direction
+5.
+    a.
+        BASS
+    b.
+        After it has left the main sequence, the star, having ran out of hydrogen, will begin to cool and expand, and become a red giant. Afterwards, as it runs out of even more fuel-types, the force of gravity will cause it to collapse, causing the fusion of heavier elements, causing a supernova. After supernova, it might become a black hole or a neutron star.
+    c.
+        600 * 5 = 30000; 7.5 * 400 = 30000 (draw lines for both), so it is probably true.
+6.
+    a.
+        The loudspeaker produces sound by inducing oscillating vibrations in the paper cone, which transmits that vibration into the air as sound-waves. It induces the aforementioned oscillations by alternating the direction of current in the coil. If the current is s.t. it is going into the page in the top half and going out in the bottom half, the coil will experience a force towards and move towards the left; if the current is the opposite direction, it will move towards the right. These movements are transferred to the tube and then to the paper cone, which creates sound. The device which controls the loudspeaker can alternate the amount of current and the frequency at which it changes direction to control the volume and pitch respectively of the sound produced.
+    b.
+        i.
+            0.75 * 0.15 = 0.1125 ~= 0.1W
+        ii.
+        iii.
+            y-axis: 0.020, label power of loudspeakers in W; x-axis: steps of 5 per four big squares; smooth curve
+    c.
+        The total resistance of the loudspeakers in diagram three is higher, since they are in series. This can also be seen by the fact that V = IR, and V is constant, but I (current) is lower, so R must be higher. Namely, respectively, resistance must be 5 and 1.25 ohms. This can also be seen by the fact that the speakers in diagram 3 are in series but in parallel in diagram 4: resistance decreases if two components are connected in parallel but increases if they connect in series.
+7.
+    a.
+        Background radiation is the radiation that is emitted by natural processes in the Earth; i.e. not as a result of specific sources of radiation but rather something which occurs everywhere and in our daily lives.
+    b.
+        i.
+            The amount of time needed for a sample of a radioactive substance to reduce in activity by one-half the starting value is known as its half-life.
+        ii.
+            3 days (draw on graph)
+    c.
+        86, 4, 2
+    d.
+        This will lead to contamination of the human, as radon-222 will decay inside the body/inside the person's lungs. Alpha radiation is ordinarily harmless as it will be stopped by the skin as it has limited penetrative power; however, inside the body, alpha radiation can cause cancer or cell damage as it does not have to go through the skin to access alive soft tissue.
+8.
+    a.
+        i.
+            The hailstone, kept cold so that it does not melt, should be weighed on a balance, taking care that the balance has been zeroed before placing the hailstone on it and taking care that all legs are on a flat, sturdy surface. Then, measuring tape can be used to measure the circumference of the largest circle that can be drawn on the surface of the hailstone, which can be divided by pi to get its diameter; this can be confirmed by e.g. placing the hailstone between two blocks of wood or another suitably large, flat surface and measuring the distance between the two internal surfaces, which should also be the diameter. Taking the diameter, divide by two to get the radius. Convert this into centimeters, then apply the formula volume = (4/3) * (pi) * (r^3); then, convert the weight of the hailstone into grams, which is also its mass since we measured it, presumably, on Earth. The formula density (in grams per cubic centimeter) = mass (in grams) / volume (in cubic centimeters) can be applied with the aforementioned values to obtain its density. This process can be repeated with multiple hailstones and the average taken to find the average density of a generic hailstone if so desired.
+        ii.
+            0.94/1.1 = 0.854545454545 ~= 0.855 g/(cm^3)
+    b.
+        Convection is the movement of air as hot air rises and cold air sinks. This happens continuously, as as the cold air sinks, it gets heated up by the warm ground and rises up again. The hailstones would experience an imbalanced and upwards force as hot air rises as they have non-negligible cross-sectional area and hence experience drag when they have nonzero relative velocity to the surrounding air. Hence, the hailstones are lifted to the top of the cloud.
+9.
+    a.
+        Air molecules move in random directions and have momentum. When they collide with the inner walls (which have an area), they exert a force on them, since they must change direction (change in momentum, which requires a force) otherwise they would phase through the walls, which is generally impossible. Since pressure is force/area, there must also be a pressure exerted.
+    b.
+        The number of air molecules in the container decreases. This is because heating increases the pressure in the container; also, heating increases the average temperature of the molecules as temperature in kelvin is proportional to average kinetic energy. All this means that particles are more likely to leave the container via the hole since they are faster and have more energy, so over time, the number of air molecules in the container must decrease.
+    c.
+        Because as the container cools, the average kinetic energy and so momentum and hence force per individual collision exerted on the internal walls decreases. This means less pressure is exerted on the internal walls. Normally, air would rush in from outside to equalize the pressure, but this is now not possible. Hence, since the pressure inside the container is lower than outside and since the force on the walls is lesser in magnitude than the forces acting on the container from outside (atmospheric pressure, which exerts a force in much the same manner; i.e. air molecules colliding with the walls), the container experiences a stronger force inwards than outwards, so collapses until the reduction in volume causes pressure to equalize enough for the strength of the walls to resist further collapse.
+10.
+    a.
+        i.
+            Because the direction of current and hence voltage induced depends on the direction of motion; as the trolley moves from left to right, current is induced up to down, and as the trolley moves from right to left current is induced down to up. Hence, as the trolley moves from left to right, the sign of the voltmeter is one way; as the trolley moves from right to left, it is the opposite sign.
+        ii.
+            Because it is not possible for the trolley to maintain a constant speed, as it must accelerate and decelerate at least near the ends of its path. Higher speed leads to a higher magnitude of induced voltage, so if the trolley does not pass through the magnetic field at a constant speed every time it passes through, the magnitude will change.
+    b.
+        i.
+            1.4 * 10^{(-4)}/0.78 = 0.000179487179487 ~= 1.79 * 10^(-4)
+        ii.
+            2.3 * 10^{(-6)}/(1.4 * 10^{(-4)}) = 0.0164285714286 ~= 0.0164 v
+11.
+    a.
+        i.
+
+        ii.
+            Between incidence and normal
+        iii.
+            Same angle between incidence and normal as between reflected and normal
+    b.
+        i.
+            Transverse waves have oscillations and vibrations perpendicular to the axis of travel whereas longitudinal waves have oscillations etc parallel to the axis of travel.
+        ii.
+            Because as the boat travels towards the observer, the waves generated towards the observer are compressed as the boat is moving. The speed of those waves in water remains constant, but since the distance between waves is reduced, the wavelength decreases, and so since speed = frequency * wavelength, since speed is constant, if wavelength decreases, frequency must increase. This is also known as the doppler effect.
+12.
+    a.
+        sqrt(2 * 10 * 1300) = 161.245154966 ~= 161.2 m/s
+    b.
+        i.
+            When the parachute opens, the cross-sectional area of the parachutist greatly increases. The force of drag is proportional to area, so when this increase happens, the force of drag opposing the parachutist's motion increases as well. This causes an imbalanced upwards force, which causes an acceleration upwards as an imbalanced force must cause acceleration, which causes the parachutist to slow down.
+        ii.
+            This is because as the parachute opens, air molecules impact the parachute, and energy is transferred from the parachutist's KE store to the air's KE store. So, although the parachutist loses energy, energy is still conserved as it is simply transferred. In addition, the parachutist's GPE store must decrease since GPE = height * mass * g, and height decreases while mass and g are kept constant, so GPE must decrease; the parachutist's KE store must decrease since KE = 1/2 * mass * velocity^2, and the parachutist slows down as given, so their velocity must decrease, and mass is kept constant, so KE must decrease too.
+        
