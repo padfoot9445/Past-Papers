@@ -205,5 +205,14 @@
         "max_score": 70,
         "percentage": 86,
         "raw_percentage": 0.8571428571428571
+    },
+    {
+        "name": "4bi1-2b-que-20231118",
+        "time": "2026-06-07 17:46:38.390205",
+        "score": 56,
+        "comment_file": "Bio-2023-2p\\4bi1-2b-que-20231118.comment",
+        "max_score": 70,
+        "percentage": 80,
+        "raw_percentage": 0.8
     }
 ]
