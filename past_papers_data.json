@@ -223,5 +223,14 @@
         "max_score": 70,
         "percentage": 79,
         "raw_percentage": 0.7857142857142857
+    },
+    {
+        "name": "4ch1-2c-que-20230614",
+        "time": "2026-06-11 21:52:03.303392",
+        "score": 61,
+        "comment_file": "Chem-2023-2p\\4ch1-2c-que-20230614.comment",
+        "max_score": 70,
+        "percentage": 87,
+        "raw_percentage": 0.8714285714285714
     }
 ]
